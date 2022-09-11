@@ -1,0 +1,110 @@
+{
+	"charOffset": [
+		-20,
+		-20
+	],
+	"anims": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"fps": 24,
+			"prefix": "BF idle dance",
+			"looped": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-50,
+				37
+			],
+			"fps": 24,
+			"prefix": "BF NOTE UP0",
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				1,
+				-3
+			],
+			"fps": 24,
+			"prefix": "BF NOTE LEFT0",
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-58,
+				-9
+			],
+			"fps": 24,
+			"prefix": "BF NOTE RIGHT0",
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"prefix": "BF NOTE DOWN0",
+			"offsets": [
+				-25,
+				-56
+			],
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE UP MISS",
+			"offsets": [
+				-57,
+				36
+			],
+			"fps": 24,
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE RIGHT MISS",
+			"offsets": [
+				-58,
+				-15
+			],
+			"fps": 24,
+			"name": "singRIGHTmiss",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE LEFT MISS",
+			"offsets": [
+				-2,
+				-4
+			],
+			"fps": 24,
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE DOWN MISS",
+			"offsets": [
+				-28,
+				-60
+			],
+			"fps": 24,
+			"name": "singDOWNmiss",
+			"looped": false
+		}
+	],
+	"spritesheet": "corruptedbf",
+	"singDur": 4,
+	"camOffset": [
+		20,
+		50
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "corruptedbf",
+	"beatDancer": false,
+	"healthColor": "0xFF0A0532",
+	"format": "andromeda"
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightning sugv.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightning0000" x="100" y="100" width="2655" height="338"/>
+	<SubTexture name="lightning0001" x="100" y="538" width="2655" height="338"/>
+	<SubTexture name="lightning0002" x="100" y="976" width="2655" height="338"/>
+	<SubTexture name="lightning0003" x="100" y="1414" width="2655" height="338"/>
+</TextureAtlas>

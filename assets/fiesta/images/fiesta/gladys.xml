@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gladys.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gladys instance 10000" x="2" y="2" width="335" height="361" frameX="0" frameY="-17" frameWidth="335" frameHeight="378"/>
+	<SubTexture name="gladys instance 10001" x="2" y="2" width="335" height="361" frameX="0" frameY="-17" frameWidth="335" frameHeight="378"/>
+	<SubTexture name="gladys instance 10002" x="339" y="2" width="321" height="374" frameX="-7" frameY="-4" frameWidth="335" frameHeight="378"/>
+	<SubTexture name="gladys instance 10003" x="339" y="2" width="321" height="374" frameX="-7" frameY="-4" frameWidth="335" frameHeight="378"/>
+	<SubTexture name="gladys instance 10004" x="662" y="2" width="317" height="378" frameX="-9" frameY="0" frameWidth="335" frameHeight="378"/>
+</TextureAtlas>

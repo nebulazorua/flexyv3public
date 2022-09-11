@@ -1,0 +1,54 @@
+{
+  "dialogue": [
+    {
+      "character": "merchant",
+      "expression": "ohno",
+      "text": "Buddy..? What's up with you? You're acting differently.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "dmp-player",
+      "expression": "corrupt",
+      "text": "...",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "expression": "ohno",
+      "text": "What the hell happened to you? Are you even… Flexy anymore?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "dmp-player",
+      "expression": "corrupt",
+      "text": "...",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "expression": "ohno",
+      "text": "I don’t have a choice here, do I?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "expression": "ohno",
+      "text": "It's me or you, and I have a family to protect. I'm sorry, but I can't let you leave here.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "expression": "pissed",
+      "text": "Not alive, anyway.",
+      "speed": 0.065,
+      "box": "normal"
+    }
+  ],
+  "music": "Diablo"
+}

@@ -1,0 +1,50 @@
+{
+	"charOffset": [
+		0,
+		0
+	],
+	"spritesheet": "dickhead_dies",
+	"anims": [
+		{
+			"offsets": [
+				62,
+				153
+			],
+			"fps": 24,
+			"prefix": "BF dies",
+			"looped": false,
+			"name": "firstDeath"
+		},
+		{
+			"prefix": "BF Dead Loop",
+			"offsets": [
+				7,
+				8
+			],
+			"fps": 24,
+			"name": "deathLoop",
+			"looped": true
+		},
+		{
+			"offsets": [
+				8,
+				73
+			],
+			"fps": 24,
+			"prefix": "BF Dead confirm",
+			"looped": false,
+			"name": "deathConfirm"
+		}
+	],
+	"camOffset": [
+		0,
+		0
+	],
+	"singDur": 4,
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "dickhead",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFFBE72FF"
+}

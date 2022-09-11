@@ -1,0 +1,339 @@
+{
+	"charOffset": [
+		-285,
+		-140
+	],
+	"scale": 0.4,
+	"camOffset": [
+		375,
+		450
+	],
+	"singDur": 6.1,
+	"spritesheet": "corrupted_merchant",
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"looped": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				40,
+				18
+			],
+			"fps": 24,
+			"prefix": "merchant up",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				114,
+				50
+			],
+			"fps": 24,
+			"prefix": "merchant left",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-28,
+				0
+			],
+			"fps": 24,
+			"prefix": "merchant right",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-43,
+				-67
+			],
+			"fps": 24,
+			"prefix": "merchant down",
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"offsets": [
+				40,
+				18
+			],
+			"fps": 24,
+			"prefix": "merchant up",
+			"looped": false,
+			"name": "holdUPStart",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"offsets": [
+				40,
+				18
+			],
+			"fps": 24,
+			"prefix": "merchant up",
+			"looped": true,
+			"name": "holdUP",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"offsets": [
+				40,
+				18
+			],
+			"fps": 24,
+			"prefix": "merchant up",
+			"looped": true,
+			"name": "holdUPEnd",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"offsets": [
+				114,
+				50
+			],
+			"fps": 24,
+			"prefix": "merchant left",
+			"looped": false,
+			"name": "holdLEFTStart",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"offsets": [
+				114,
+				50
+			],
+			"fps": 24,
+			"prefix": "merchant left",
+			"looped": true,
+			"name": "holdLEFT",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				114,
+				50
+			],
+			"fps": 24,
+			"prefix": "merchant left",
+			"looped": true,
+			"name": "holdLEFTEnd",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				-28,
+				0
+			],
+			"fps": 24,
+			"prefix": "merchant right",
+			"looped": false,
+			"name": "holdRIGHTStart",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"offsets": [
+				-28,
+				0
+			],
+			"fps": 24,
+			"prefix": "merchant right",
+			"looped": true,
+			"name": "holdRIGHT",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				-28,
+				0
+			],
+			"fps": 24,
+			"prefix": "merchant right",
+			"looped": true,
+			"name": "holdRIGHTEnd",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				-43,
+				-67
+			],
+			"fps": 24,
+			"prefix": "merchant down",
+			"looped": false,
+			"name": "holdDOWNStart",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"offsets": [
+				-43,
+				-67
+			],
+			"fps": 24,
+			"prefix": "merchant down",
+			"looped": true,
+			"name": "holdDOWN",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				-43,
+				-67
+			],
+			"fps": 24,
+			"prefix": "merchant down",
+			"looped": true,
+			"name": "holdDOWNEnd",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				74,
+				50
+			],
+			"fps": 24,
+			"prefix": "merchant left",
+			"looped": true,
+			"name": "singLEFT-end",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"offsets": [
+				-28,
+				0
+			],
+			"fps": 24,
+			"prefix": "merchant right",
+			"looped": true,
+			"name": "singRIGHT-end",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"offsets": [
+				40,
+				18
+			],
+			"fps": 24,
+			"prefix": "merchant up",
+			"looped": true,
+			"name": "singUP-end",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"offsets": [
+				-43,
+				-67
+			],
+			"fps": 24,
+			"prefix": "merchant down",
+			"looped": true,
+			"name": "singDOWN-end",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "corruptedmerchant",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFF0F0F2D"
+}

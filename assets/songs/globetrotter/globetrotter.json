@@ -1,0 +1,13597 @@
+{
+	"sliderVelocities": [],
+	"song": {
+		"player1": "bf",
+		"player2": "dmp",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"mult",
+									1
+								],
+								"name": "Scroll Velocity"
+							}
+						],
+						"time": 0
+					}
+				],
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						4800,
+						0,
+						0,
+						0
+					],
+					[
+						4950,
+						0,
+						0,
+						0
+					],
+					[
+						5025,
+						1,
+						0,
+						0
+					],
+					[
+						5100,
+						2,
+						0,
+						0
+					],
+					[
+						5250,
+						3,
+						0,
+						0
+					],
+					[
+						5400,
+						1,
+						0,
+						0
+					],
+					[
+						5700,
+						1,
+						0,
+						0
+					],
+					[
+						5850,
+						1,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						6000,
+						3,
+						0,
+						0
+					],
+					[
+						6150,
+						1,
+						0,
+						0
+					],
+					[
+						6300,
+						1,
+						0,
+						0
+					],
+					[
+						6450,
+						2,
+						0,
+						0
+					],
+					[
+						6900,
+						1,
+						0,
+						0
+					],
+					[
+						7050,
+						2,
+						0,
+						0
+					],
+					[
+						7125,
+						0,
+						0,
+						0
+					],
+					[
+						6600,
+						3,
+						225,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						7200,
+						1,
+						0,
+						0
+					],
+					[
+						7350,
+						1,
+						0,
+						0
+					],
+					[
+						7500,
+						0,
+						0,
+						0
+					],
+					[
+						7650,
+						0,
+						0,
+						0
+					],
+					[
+						7800,
+						1,
+						0,
+						0
+					],
+					[
+						7950,
+						1,
+						0,
+						0
+					],
+					[
+						8100,
+						2,
+						0,
+						0
+					],
+					[
+						8250,
+						1,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						8400,
+						0,
+						0,
+						0
+					],
+					[
+						8550,
+						3,
+						0,
+						0
+					],
+					[
+						8700,
+						3,
+						0,
+						0
+					],
+					[
+						8850,
+						3,
+						0,
+						0
+					],
+					[
+						9000,
+						0,
+						0,
+						0
+					],
+					[
+						9150,
+						0,
+						0,
+						0
+					],
+					[
+						9300,
+						0,
+						0,
+						0
+					],
+					[
+						9450,
+						2,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						9600,
+						0,
+						0
+					],
+					[
+						9750,
+						0,
+						0
+					],
+					[
+						9825,
+						1,
+						0,
+						0
+					],
+					[
+						9900,
+						2,
+						0,
+						0
+					],
+					[
+						10050,
+						3,
+						0
+					],
+					[
+						10200,
+						1,
+						0
+					],
+					[
+						10500,
+						1,
+						0
+					],
+					[
+						10650,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						10800,
+						3,
+						0
+					],
+					[
+						10950,
+						1,
+						0
+					],
+					[
+						11100,
+						1,
+						0
+					],
+					[
+						11250,
+						2,
+						0
+					],
+					[
+						11700,
+						1,
+						0
+					],
+					[
+						11850,
+						2,
+						0
+					],
+					[
+						11925,
+						0,
+						0
+					],
+					[
+						11400,
+						3,
+						225,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						12000,
+						1,
+						0
+					],
+					[
+						12150,
+						1,
+						0
+					],
+					[
+						12300,
+						0,
+						0
+					],
+					[
+						12450,
+						0,
+						0
+					],
+					[
+						12600,
+						1,
+						0
+					],
+					[
+						12750,
+						1,
+						0
+					],
+					[
+						12900,
+						2,
+						0
+					],
+					[
+						13050,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						13200,
+						0,
+						0
+					],
+					[
+						13350,
+						3,
+						0
+					],
+					[
+						13500,
+						3,
+						0
+					],
+					[
+						13650,
+						3,
+						0
+					],
+					[
+						13800,
+						0,
+						0
+					],
+					[
+						13950,
+						0,
+						0
+					],
+					[
+						14100,
+						0,
+						0
+					],
+					[
+						14250,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						14400,
+						2,
+						0,
+						0
+					],
+					[
+						14550,
+						2,
+						0,
+						0
+					],
+					[
+						14700,
+						0,
+						0,
+						0
+					],
+					[
+						14850,
+						0,
+						0,
+						0
+					],
+					[
+						15000,
+						2,
+						0,
+						0
+					],
+					[
+						15150,
+						0,
+						0,
+						0
+					],
+					[
+						15225,
+						2,
+						0,
+						0
+					],
+					[
+						15450,
+						0,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						15600,
+						1,
+						0,
+						0
+					],
+					[
+						15900,
+						1,
+						0,
+						0
+					],
+					[
+						16200,
+						1,
+						0,
+						0
+					],
+					[
+						16500,
+						3,
+						0,
+						0
+					],
+					[
+						16650,
+						1,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						16800,
+						2,
+						0,
+						0
+					],
+					[
+						16800,
+						6,
+						0,
+						0
+					],
+					[
+						16950,
+						2,
+						0
+					],
+					[
+						16950,
+						6,
+						0,
+						0
+					],
+					[
+						17100,
+						0,
+						0
+					],
+					[
+						17100,
+						4,
+						0,
+						0
+					],
+					[
+						17250,
+						4,
+						0,
+						0
+					],
+					[
+						17250,
+						0,
+						0,
+						0
+					],
+					[
+						17400,
+						2,
+						0
+					],
+					[
+						17400,
+						6,
+						0,
+						0
+					],
+					[
+						17550,
+						6,
+						0,
+						0
+					],
+					[
+						17550,
+						2,
+						0,
+						0
+					],
+					[
+						17700,
+						3,
+						0
+					],
+					[
+						17700,
+						6,
+						0,
+						0
+					],
+					[
+						17850,
+						2,
+						0
+					],
+					[
+						17850,
+						6,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [
+					{
+						"events": [
+							{
+								"args": [],
+								"name": ""
+							}
+						],
+						"time": 16800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [],
+								"name": ""
+							}
+						],
+						"time": 16875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [],
+								"name": ""
+							}
+						],
+						"time": 16950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17325,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17400,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17475,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17550,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17625,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17700,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17775,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17850,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 17925,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						18000,
+						1,
+						0
+					],
+					[
+						18000,
+						7,
+						0,
+						0
+					],
+					[
+						18150,
+						1,
+						0,
+						0
+					],
+					[
+						18300,
+						5,
+						0,
+						0
+					],
+					[
+						18300,
+						0,
+						0,
+						0
+					],
+					[
+						18450,
+						0,
+						0,
+						0
+					],
+					[
+						18600,
+						0,
+						0
+					],
+					[
+						18600,
+						5,
+						0,
+						0
+					],
+					[
+						18750,
+						0,
+						0,
+						0
+					],
+					[
+						18900,
+						0,
+						0
+					],
+					[
+						18900,
+						7,
+						0,
+						0
+					],
+					[
+						19050,
+						1,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18000,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18075,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18150,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18225,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18300,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18375,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18450,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18525,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18600,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18675,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18750,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18825,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18900,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 18975,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 19050,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 19125,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						19200,
+						2,
+						0,
+						0
+					],
+					[
+						19500,
+						2,
+						0,
+						0
+					],
+					[
+						19650,
+						2,
+						0,
+						0
+					],
+					[
+						19950,
+						2,
+						0,
+						0
+					],
+					[
+						20250,
+						2,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						20550,
+						2,
+						0,
+						0
+					],
+					[
+						21300,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						21600,
+						1,
+						0,
+						0
+					],
+					[
+						21900,
+						1,
+						0,
+						0
+					],
+					[
+						22050,
+						1,
+						0,
+						0
+					],
+					[
+						22350,
+						2,
+						0,
+						0
+					],
+					[
+						22650,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						22950,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						24000,
+						5,
+						224.999999999996,
+						0
+					],
+					[
+						24000,
+						2,
+						224.999999999996,
+						0
+					],
+					[
+						24300,
+						2,
+						0,
+						0
+					],
+					[
+						24300,
+						5,
+						0,
+						0
+					],
+					[
+						24450,
+						2,
+						224.999999999996,
+						0
+					],
+					[
+						24450,
+						5,
+						149.999999999996,
+						0
+					],
+					[
+						24750,
+						2,
+						0,
+						0
+					],
+					[
+						24750,
+						5,
+						0,
+						0
+					],
+					[
+						25050,
+						6,
+						225,
+						0
+					],
+					[
+						25050,
+						3,
+						225,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						25350,
+						1,
+						0,
+						0
+					],
+					[
+						25350,
+						4,
+						0,
+						0
+					],
+					[
+						25650,
+						2,
+						0,
+						0
+					],
+					[
+						25650,
+						5,
+						0,
+						0
+					],
+					[
+						25950,
+						5,
+						375,
+						0
+					],
+					[
+						25950,
+						2,
+						375,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						26400,
+						0,
+						225,
+						0
+					],
+					[
+						26400,
+						4,
+						225,
+						0
+					],
+					[
+						26700,
+						0,
+						0,
+						0
+					],
+					[
+						26700,
+						4,
+						0,
+						0
+					],
+					[
+						26850,
+						0,
+						225.000000000004,
+						0
+					],
+					[
+						26850,
+						4,
+						225.000000000004,
+						0
+					],
+					[
+						27150,
+						2,
+						0,
+						0
+					],
+					[
+						27150,
+						6,
+						0,
+						0
+					],
+					[
+						27450,
+						0,
+						1125,
+						0
+					],
+					[
+						27450,
+						5,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						28800,
+						0,
+						0
+					],
+					[
+						28950,
+						0,
+						0
+					],
+					[
+						29025,
+						1,
+						0
+					],
+					[
+						29100,
+						2,
+						0
+					],
+					[
+						29250,
+						3,
+						0
+					],
+					[
+						29400,
+						1,
+						0
+					],
+					[
+						29700,
+						1,
+						0
+					],
+					[
+						29850,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						30000,
+						3,
+						0
+					],
+					[
+						30150,
+						1,
+						0
+					],
+					[
+						30300,
+						1,
+						0
+					],
+					[
+						30450,
+						2,
+						0
+					],
+					[
+						30900,
+						1,
+						0
+					],
+					[
+						31050,
+						2,
+						0
+					],
+					[
+						31125,
+						0,
+						0
+					],
+					[
+						30600,
+						3,
+						225,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						31200,
+						1,
+						0
+					],
+					[
+						31350,
+						1,
+						0
+					],
+					[
+						31500,
+						0,
+						0
+					],
+					[
+						31650,
+						0,
+						0
+					],
+					[
+						31800,
+						1,
+						0
+					],
+					[
+						31950,
+						1,
+						0
+					],
+					[
+						32100,
+						2,
+						0
+					],
+					[
+						32250,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						32400,
+						0,
+						0
+					],
+					[
+						32550,
+						3,
+						0
+					],
+					[
+						32700,
+						3,
+						0
+					],
+					[
+						32850,
+						3,
+						0
+					],
+					[
+						33000,
+						0,
+						0
+					],
+					[
+						33150,
+						0,
+						0
+					],
+					[
+						33300,
+						0,
+						0
+					],
+					[
+						33450,
+						2,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						33600,
+						0,
+						0
+					],
+					[
+						33750,
+						0,
+						0
+					],
+					[
+						33825,
+						1,
+						0
+					],
+					[
+						33900,
+						2,
+						0
+					],
+					[
+						34050,
+						3,
+						0
+					],
+					[
+						34200,
+						1,
+						0
+					],
+					[
+						34500,
+						1,
+						0
+					],
+					[
+						34650,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						34800,
+						3,
+						0
+					],
+					[
+						34950,
+						1,
+						0
+					],
+					[
+						35100,
+						1,
+						0
+					],
+					[
+						35250,
+						2,
+						0
+					],
+					[
+						35700,
+						1,
+						0
+					],
+					[
+						35850,
+						2,
+						0
+					],
+					[
+						35925,
+						0,
+						0
+					],
+					[
+						35400,
+						3,
+						225,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						36000,
+						1,
+						0
+					],
+					[
+						36150,
+						1,
+						0
+					],
+					[
+						36300,
+						0,
+						0
+					],
+					[
+						36450,
+						0,
+						0
+					],
+					[
+						36600,
+						1,
+						0
+					],
+					[
+						36750,
+						1,
+						0
+					],
+					[
+						36900,
+						2,
+						0
+					],
+					[
+						37050,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						37200,
+						0,
+						0
+					],
+					[
+						37350,
+						3,
+						0
+					],
+					[
+						37500,
+						3,
+						0
+					],
+					[
+						37650,
+						3,
+						0
+					],
+					[
+						37800,
+						0,
+						0
+					],
+					[
+						37950,
+						0,
+						0
+					],
+					[
+						38100,
+						0,
+						0
+					],
+					[
+						38250,
+						2,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						38400,
+						2,
+						0
+					],
+					[
+						38550,
+						2,
+						0
+					],
+					[
+						38700,
+						0,
+						0
+					],
+					[
+						38850,
+						0,
+						0
+					],
+					[
+						39150,
+						0,
+						0
+					],
+					[
+						39225,
+						2,
+						0
+					],
+					[
+						39450,
+						0,
+						0
+					],
+					[
+						39000,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						39600,
+						1,
+						0
+					],
+					[
+						39900,
+						1,
+						0
+					],
+					[
+						40200,
+						1,
+						0
+					],
+					[
+						40500,
+						3,
+						0
+					],
+					[
+						40650,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						40800,
+						2,
+						0
+					],
+					[
+						40800,
+						6,
+						0
+					],
+					[
+						40950,
+						2,
+						0
+					],
+					[
+						40950,
+						6,
+						0
+					],
+					[
+						41100,
+						0,
+						0
+					],
+					[
+						41100,
+						4,
+						0
+					],
+					[
+						41250,
+						4,
+						0
+					],
+					[
+						41250,
+						0,
+						0
+					],
+					[
+						41400,
+						2,
+						0
+					],
+					[
+						41400,
+						6,
+						0
+					],
+					[
+						41550,
+						6,
+						0
+					],
+					[
+						41550,
+						2,
+						0
+					],
+					[
+						41700,
+						3,
+						0
+					],
+					[
+						41700,
+						6,
+						0
+					],
+					[
+						41850,
+						2,
+						0
+					],
+					[
+						41850,
+						6,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 40800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 40875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 40950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41325,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41400,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41475,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41550,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41625,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41700,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41775,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41850,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 41925,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						42000,
+						1,
+						0
+					],
+					[
+						42000,
+						7,
+						0
+					],
+					[
+						42150,
+						1,
+						0
+					],
+					[
+						42300,
+						5,
+						0
+					],
+					[
+						42300,
+						0,
+						0
+					],
+					[
+						42450,
+						0,
+						0
+					],
+					[
+						42600,
+						0,
+						0
+					],
+					[
+						42600,
+						5,
+						0
+					],
+					[
+						42750,
+						0,
+						0
+					],
+					[
+						42900,
+						0,
+						0
+					],
+					[
+						42900,
+						7,
+						0
+					],
+					[
+						43050,
+						1,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42000,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42075,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42150,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42225,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42300,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42375,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42450,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42525,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42600,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42675,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42750,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42825,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42900,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 42975,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 43050,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 43125,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						43200,
+						2,
+						0
+					],
+					[
+						43350,
+						2,
+						0
+					],
+					[
+						43500,
+						0,
+						0
+					],
+					[
+						43650,
+						0,
+						0
+					],
+					[
+						43800,
+						2,
+						0
+					],
+					[
+						43950,
+						0,
+						0
+					],
+					[
+						44025,
+						2,
+						0
+					],
+					[
+						44250,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						44400,
+						1,
+						0
+					],
+					[
+						44700,
+						1,
+						0
+					],
+					[
+						45000,
+						1,
+						0
+					],
+					[
+						45300,
+						3,
+						0
+					],
+					[
+						45450,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						45600,
+						2,
+						0
+					],
+					[
+						45600,
+						6,
+						0
+					],
+					[
+						45750,
+						2,
+						0
+					],
+					[
+						45750,
+						6,
+						0
+					],
+					[
+						45900,
+						0,
+						0
+					],
+					[
+						45900,
+						4,
+						0
+					],
+					[
+						46050,
+						4,
+						0
+					],
+					[
+						46050,
+						0,
+						0
+					],
+					[
+						46200,
+						2,
+						0
+					],
+					[
+						46200,
+						6,
+						0
+					],
+					[
+						46350,
+						6,
+						0
+					],
+					[
+						46350,
+						2,
+						0
+					],
+					[
+						46500,
+						3,
+						0
+					],
+					[
+						46500,
+						6,
+						0
+					],
+					[
+						46650,
+						2,
+						0
+					],
+					[
+						46650,
+						6,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 45600,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 45675,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 45750,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 45825,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 45900,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 45975,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46050,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46125,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46200,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46275,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46350,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46425,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46500,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46575,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46650,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46725,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						46800,
+						1,
+						0
+					],
+					[
+						46800,
+						7,
+						0
+					],
+					[
+						46950,
+						1,
+						0
+					],
+					[
+						47100,
+						5,
+						0
+					],
+					[
+						47100,
+						0,
+						0
+					],
+					[
+						47250,
+						0,
+						0
+					],
+					[
+						47400,
+						0,
+						0
+					],
+					[
+						47400,
+						5,
+						0
+					],
+					[
+						47550,
+						0,
+						0
+					],
+					[
+						47700,
+						0,
+						0
+					],
+					[
+						47700,
+						7,
+						0
+					],
+					[
+						47850,
+						1,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 46950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47325,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47400,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47475,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47550,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47625,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47700,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47775,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47850,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 47925,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						48000,
+						1,
+						0,
+						0
+					],
+					[
+						48150,
+						3,
+						0,
+						0
+					],
+					[
+						48300,
+						1,
+						0,
+						0
+					],
+					[
+						48450,
+						3,
+						0,
+						0
+					],
+					[
+						48600,
+						1,
+						0,
+						0
+					],
+					[
+						48900,
+						3,
+						0,
+						0
+					],
+					[
+						49050,
+						3,
+						0,
+						0
+					],
+					[
+						48750,
+						0,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						49200,
+						0,
+						0,
+						0
+					],
+					[
+						49350,
+						3,
+						0,
+						0
+					],
+					[
+						49500,
+						2,
+						0,
+						0
+					],
+					[
+						49650,
+						1,
+						0,
+						0
+					],
+					[
+						49800,
+						0,
+						0,
+						0
+					],
+					[
+						49950,
+						2,
+						0,
+						0
+					],
+					[
+						50100,
+						0,
+						0,
+						0
+					],
+					[
+						50250,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						50400,
+						0,
+						0,
+						0
+					],
+					[
+						50550,
+						2,
+						0,
+						0
+					],
+					[
+						50850,
+						2,
+						0,
+						0
+					],
+					[
+						51000,
+						0,
+						0,
+						0
+					],
+					[
+						51150,
+						2,
+						0,
+						0
+					],
+					[
+						51450,
+						2,
+						0,
+						0
+					],
+					[
+						50700,
+						1,
+						0,
+						0
+					],
+					[
+						51300,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						51600,
+						3,
+						0,
+						0
+					],
+					[
+						51750,
+						0,
+						0,
+						0
+					],
+					[
+						52200,
+						3,
+						0,
+						0
+					],
+					[
+						52350,
+						0,
+						0,
+						0
+					],
+					[
+						52500,
+						0,
+						0,
+						0
+					],
+					[
+						52650,
+						3,
+						0,
+						0
+					],
+					[
+						51825,
+						1,
+						0,
+						0
+					],
+					[
+						51900,
+						0,
+						0,
+						0
+					],
+					[
+						52050,
+						3,
+						0,
+						0
+					],
+					[
+						52125,
+						2,
+						0,
+						0
+					],
+					[
+						52425,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						52800,
+						1,
+						0,
+						0
+					],
+					[
+						52950,
+						3,
+						0,
+						0
+					],
+					[
+						53100,
+						1,
+						0,
+						0
+					],
+					[
+						53250,
+						3,
+						0,
+						0
+					],
+					[
+						53400,
+						1,
+						0,
+						0
+					],
+					[
+						53700,
+						3,
+						0,
+						0
+					],
+					[
+						53850,
+						3,
+						0,
+						0
+					],
+					[
+						53550,
+						0,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						54000,
+						0,
+						0,
+						0
+					],
+					[
+						54150,
+						3,
+						0,
+						0
+					],
+					[
+						54300,
+						2,
+						0,
+						0
+					],
+					[
+						54450,
+						1,
+						0,
+						0
+					],
+					[
+						54600,
+						0,
+						0,
+						0
+					],
+					[
+						54750,
+						2,
+						0,
+						0
+					],
+					[
+						54900,
+						0,
+						0,
+						0
+					],
+					[
+						55050,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						55200,
+						0,
+						0,
+						0
+					],
+					[
+						55350,
+						2,
+						0,
+						0
+					],
+					[
+						55650,
+						2,
+						0,
+						0
+					],
+					[
+						55800,
+						0,
+						0,
+						0
+					],
+					[
+						55950,
+						2,
+						0,
+						0
+					],
+					[
+						56250,
+						2,
+						0,
+						0
+					],
+					[
+						55500,
+						1,
+						0,
+						0
+					],
+					[
+						56100,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						56400,
+						3,
+						0,
+						0
+					],
+					[
+						56550,
+						0,
+						0,
+						0
+					],
+					[
+						57000,
+						3,
+						0,
+						0
+					],
+					[
+						57150,
+						0,
+						0,
+						0
+					],
+					[
+						57300,
+						0,
+						0,
+						0
+					],
+					[
+						57450,
+						3,
+						0,
+						0
+					],
+					[
+						56625,
+						1,
+						0,
+						0
+					],
+					[
+						56700,
+						0,
+						0,
+						0
+					],
+					[
+						56850,
+						3,
+						0,
+						0
+					],
+					[
+						56925,
+						2,
+						0,
+						0
+					],
+					[
+						57225,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						57600,
+						0,
+						0,
+						0
+					],
+					[
+						57825,
+						0,
+						0,
+						0
+					],
+					[
+						57900,
+						2,
+						0,
+						0
+					],
+					[
+						58050,
+						2,
+						0,
+						0
+					],
+					[
+						58200,
+						0,
+						0,
+						0
+					],
+					[
+						58500,
+						2,
+						0,
+						0
+					],
+					[
+						58650,
+						2,
+						0,
+						0
+					],
+					[
+						58350,
+						3,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						58800,
+						0,
+						0,
+						0
+					],
+					[
+						58950,
+						3,
+						0,
+						0
+					],
+					[
+						59100,
+						2,
+						0,
+						0
+					],
+					[
+						59250,
+						1,
+						0,
+						0
+					],
+					[
+						59400,
+						0,
+						0,
+						0
+					],
+					[
+						59550,
+						3,
+						0,
+						0
+					],
+					[
+						59625,
+						0,
+						0,
+						0
+					],
+					[
+						59850,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						60000,
+						0,
+						0,
+						0
+					],
+					[
+						60150,
+						2,
+						0,
+						0
+					],
+					[
+						60225,
+						1,
+						0,
+						0
+					],
+					[
+						60300,
+						3,
+						0,
+						0
+					],
+					[
+						60450,
+						0,
+						0,
+						0
+					],
+					[
+						60750,
+						2,
+						0,
+						0
+					],
+					[
+						60825,
+						1,
+						0,
+						0
+					],
+					[
+						60900,
+						3,
+						0,
+						0
+					],
+					[
+						61050,
+						0,
+						0,
+						0
+					],
+					[
+						60600,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						61200,
+						2,
+						0,
+						0
+					],
+					[
+						61275,
+						1,
+						0,
+						0
+					],
+					[
+						61350,
+						0,
+						0,
+						0
+					],
+					[
+						61500,
+						3,
+						0,
+						0
+					],
+					[
+						61575,
+						0,
+						0,
+						0
+					],
+					[
+						61650,
+						1,
+						0,
+						0
+					],
+					[
+						61950,
+						2,
+						0,
+						0
+					],
+					[
+						62100,
+						1,
+						0,
+						0
+					],
+					[
+						62250,
+						0,
+						0,
+						0
+					],
+					[
+						61800,
+						3,
+						0,
+						0
+					],
+					[
+						61725,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						62400,
+						0,
+						0,
+						0
+					],
+					[
+						62625,
+						0,
+						0,
+						0
+					],
+					[
+						62700,
+						2,
+						0,
+						0
+					],
+					[
+						62850,
+						2,
+						0,
+						0
+					],
+					[
+						63000,
+						0,
+						0,
+						0
+					],
+					[
+						63300,
+						2,
+						0,
+						0
+					],
+					[
+						63450,
+						2,
+						0,
+						0
+					],
+					[
+						63150,
+						3,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						63600,
+						0,
+						0,
+						0
+					],
+					[
+						63750,
+						3,
+						0,
+						0
+					],
+					[
+						63900,
+						2,
+						0,
+						0
+					],
+					[
+						64050,
+						1,
+						0,
+						0
+					],
+					[
+						64200,
+						0,
+						0,
+						0
+					],
+					[
+						64350,
+						3,
+						0,
+						0
+					],
+					[
+						64425,
+						0,
+						0,
+						0
+					],
+					[
+						64650,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						64800,
+						0,
+						0,
+						0
+					],
+					[
+						64950,
+						2,
+						0,
+						0
+					],
+					[
+						65025,
+						1,
+						0,
+						0
+					],
+					[
+						65100,
+						3,
+						0,
+						0
+					],
+					[
+						65250,
+						0,
+						0,
+						0
+					],
+					[
+						65550,
+						2,
+						0,
+						0
+					],
+					[
+						65625,
+						1,
+						0,
+						0
+					],
+					[
+						65700,
+						3,
+						0,
+						0
+					],
+					[
+						65850,
+						0,
+						0,
+						0
+					],
+					[
+						65400,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						66000,
+						2,
+						0,
+						0
+					],
+					[
+						66075,
+						1,
+						0,
+						0
+					],
+					[
+						66150,
+						0,
+						0,
+						0
+					],
+					[
+						66300,
+						3,
+						0,
+						0
+					],
+					[
+						66375,
+						0,
+						0,
+						0
+					],
+					[
+						66450,
+						1,
+						0,
+						0
+					],
+					[
+						66750,
+						2,
+						0,
+						0
+					],
+					[
+						66900,
+						1,
+						0,
+						0
+					],
+					[
+						67050,
+						0,
+						0,
+						0
+					],
+					[
+						66600,
+						3,
+						0,
+						0
+					],
+					[
+						66525,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						67200,
+						5,
+						0,
+						0
+					],
+					[
+						67350,
+						7,
+						0,
+						0
+					],
+					[
+						67500,
+						5,
+						0,
+						0
+					],
+					[
+						67650,
+						7,
+						0,
+						0
+					],
+					[
+						67800,
+						5,
+						0,
+						0
+					],
+					[
+						68100,
+						7,
+						0,
+						0
+					],
+					[
+						68250,
+						7,
+						0,
+						0
+					],
+					[
+						67950,
+						4,
+						0,
+						0
+					],
+					[
+						67200,
+						1,
+						0,
+						0
+					],
+					[
+						67350,
+						3,
+						0,
+						0
+					],
+					[
+						67500,
+						1,
+						0,
+						0
+					],
+					[
+						67650,
+						3,
+						0,
+						0
+					],
+					[
+						67800,
+						1,
+						0,
+						0
+					],
+					[
+						68100,
+						3,
+						0,
+						0
+					],
+					[
+						68250,
+						3,
+						0,
+						0
+					],
+					[
+						67950,
+						0,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67200,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67200,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67275,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67350,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67425,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67500,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67575,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67575,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67650,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67725,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 67950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68325,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						68400,
+						4,
+						0
+					],
+					[
+						68400,
+						0,
+						0
+					],
+					[
+						68550,
+						7,
+						0
+					],
+					[
+						68550,
+						3,
+						0
+					],
+					[
+						68700,
+						6,
+						0
+					],
+					[
+						68700,
+						2,
+						0
+					],
+					[
+						68850,
+						5,
+						0
+					],
+					[
+						68850,
+						1,
+						0
+					],
+					[
+						69000,
+						4,
+						0
+					],
+					[
+						69000,
+						0,
+						0
+					],
+					[
+						69150,
+						6,
+						0
+					],
+					[
+						69150,
+						2,
+						0
+					],
+					[
+						69300,
+						4,
+						0
+					],
+					[
+						69300,
+						0,
+						0
+					],
+					[
+						69450,
+						5,
+						0
+					],
+					[
+						69450,
+						1,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68400,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68475,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68550,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68625,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68700,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68775,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68850,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 68925,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69000,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69075,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69150,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69225,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69300,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69375,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69450,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69525,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						69600,
+						4,
+						0,
+						0
+					],
+					[
+						69750,
+						6,
+						0,
+						0
+					],
+					[
+						70050,
+						6,
+						0,
+						0
+					],
+					[
+						70200,
+						4,
+						0,
+						0
+					],
+					[
+						70350,
+						6,
+						0,
+						0
+					],
+					[
+						70650,
+						6,
+						0,
+						0
+					],
+					[
+						69900,
+						5,
+						0,
+						0
+					],
+					[
+						70500,
+						5,
+						0,
+						0
+					],
+					[
+						69600,
+						0,
+						0,
+						0
+					],
+					[
+						69750,
+						2,
+						0,
+						0
+					],
+					[
+						70050,
+						2,
+						0,
+						0
+					],
+					[
+						70200,
+						0,
+						0,
+						0
+					],
+					[
+						70350,
+						2,
+						0,
+						0
+					],
+					[
+						70650,
+						2,
+						0,
+						0
+					],
+					[
+						69900,
+						1,
+						0,
+						0
+					],
+					[
+						70500,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69600,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69675,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69750,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69825,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69900,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 69975,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70050,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70125,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70200,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70275,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70350,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70425,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70500,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70575,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70650,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70725,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						70800,
+						7,
+						0,
+						0
+					],
+					[
+						70950,
+						4,
+						0,
+						0
+					],
+					[
+						71400,
+						7,
+						0,
+						0
+					],
+					[
+						71550,
+						4,
+						0,
+						0
+					],
+					[
+						71700,
+						4,
+						0,
+						0
+					],
+					[
+						71850,
+						7,
+						0,
+						0
+					],
+					[
+						71025,
+						5,
+						0,
+						0
+					],
+					[
+						71100,
+						4,
+						0,
+						0
+					],
+					[
+						71250,
+						7,
+						0,
+						0
+					],
+					[
+						71325,
+						6,
+						0,
+						0
+					],
+					[
+						71625,
+						5,
+						0,
+						0
+					],
+					[
+						70800,
+						3,
+						0,
+						0
+					],
+					[
+						70950,
+						0,
+						0,
+						0
+					],
+					[
+						71400,
+						3,
+						0,
+						0
+					],
+					[
+						71550,
+						0,
+						0,
+						0
+					],
+					[
+						71700,
+						0,
+						0,
+						0
+					],
+					[
+						71850,
+						3,
+						0,
+						0
+					],
+					[
+						71025,
+						1,
+						0,
+						0
+					],
+					[
+						71100,
+						0,
+						0,
+						0
+					],
+					[
+						71250,
+						3,
+						0,
+						0
+					],
+					[
+						71325,
+						2,
+						0,
+						0
+					],
+					[
+						71625,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 70950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71325,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71400,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71475,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71550,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71625,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71700,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71775,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71850,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 71925,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						72000,
+						1,
+						0
+					],
+					[
+						72150,
+						3,
+						0
+					],
+					[
+						72300,
+						1,
+						0
+					],
+					[
+						72450,
+						3,
+						0
+					],
+					[
+						72750,
+						5,
+						0,
+						0
+					],
+					[
+						72900,
+						7,
+						0,
+						0
+					],
+					[
+						73050,
+						7,
+						0,
+						0
+					],
+					[
+						72600,
+						4,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72000,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72075,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72150,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72225,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72300,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72375,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72450,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72525,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72600,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72675,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72750,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72825,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72900,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 72975,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73050,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73125,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						73200,
+						0,
+						0
+					],
+					[
+						73350,
+						3,
+						0
+					],
+					[
+						73500,
+						2,
+						0
+					],
+					[
+						73650,
+						1,
+						0
+					],
+					[
+						73800,
+						0,
+						0
+					],
+					[
+						73950,
+						2,
+						0
+					],
+					[
+						73950,
+						6,
+						0,
+						0
+					],
+					[
+						74100,
+						0,
+						0
+					],
+					[
+						74100,
+						4,
+						0,
+						0
+					],
+					[
+						74250,
+						1,
+						0
+					],
+					[
+						74250,
+						5,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73200,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73275,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73350,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73425,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73500,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73575,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73650,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73725,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 73950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74325,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						74400,
+						0,
+						0
+					],
+					[
+						74550,
+						2,
+						0
+					],
+					[
+						74850,
+						6,
+						0,
+						0
+					],
+					[
+						75000,
+						0,
+						0
+					],
+					[
+						75150,
+						2,
+						0
+					],
+					[
+						75450,
+						6,
+						0,
+						0
+					],
+					[
+						74700,
+						5,
+						0,
+						0
+					],
+					[
+						75300,
+						5,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74400,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74475,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74550,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74625,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74700,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74775,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74850,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 74925,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75000,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75075,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75150,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75225,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75300,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75375,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75450,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75525,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						75600,
+						7,
+						0,
+						0
+					],
+					[
+						75750,
+						4,
+						0,
+						0
+					],
+					[
+						76200,
+						7,
+						0,
+						0
+					],
+					[
+						76350,
+						4,
+						0,
+						0
+					],
+					[
+						76500,
+						4,
+						0,
+						0
+					],
+					[
+						76650,
+						7,
+						0,
+						0
+					],
+					[
+						75825,
+						5,
+						0,
+						0
+					],
+					[
+						75900,
+						4,
+						0,
+						0
+					],
+					[
+						76050,
+						7,
+						0,
+						0
+					],
+					[
+						76125,
+						6,
+						0,
+						0
+					],
+					[
+						76425,
+						5,
+						0,
+						0
+					],
+					[
+						75600,
+						3,
+						0,
+						0
+					],
+					[
+						75750,
+						0,
+						0,
+						0
+					],
+					[
+						76200,
+						3,
+						0,
+						0
+					],
+					[
+						76350,
+						0,
+						0,
+						0
+					],
+					[
+						76500,
+						0,
+						0,
+						0
+					],
+					[
+						76650,
+						3,
+						0,
+						0
+					],
+					[
+						75825,
+						1,
+						0,
+						0
+					],
+					[
+						75900,
+						0,
+						0,
+						0
+					],
+					[
+						76050,
+						3,
+						0,
+						0
+					],
+					[
+						76125,
+						2,
+						0,
+						0
+					],
+					[
+						76425,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75600
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75675
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75750
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75825
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75900
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 75975
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76050
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76125
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76200
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76275
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76350
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76425
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76500
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76575
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76650
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76725
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						76800,
+						4,
+						0
+					],
+					[
+						76800,
+						0,
+						0
+					],
+					[
+						77025,
+						4,
+						0
+					],
+					[
+						77025,
+						0,
+						0
+					],
+					[
+						77100,
+						6,
+						0
+					],
+					[
+						77100,
+						2,
+						0
+					],
+					[
+						77250,
+						6,
+						0
+					],
+					[
+						77250,
+						2,
+						0
+					],
+					[
+						77400,
+						4,
+						0
+					],
+					[
+						77400,
+						0,
+						0
+					],
+					[
+						77700,
+						6,
+						0
+					],
+					[
+						77700,
+						2,
+						0
+					],
+					[
+						77850,
+						6,
+						0
+					],
+					[
+						77850,
+						2,
+						0
+					],
+					[
+						77550,
+						3,
+						0,
+						0
+					],
+					[
+						77550,
+						7,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 76950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77325,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77400,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77475,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77550,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77625,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77700,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77775,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77850,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 77925,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						78000,
+						4,
+						0
+					],
+					[
+						78000,
+						0,
+						0
+					],
+					[
+						78150,
+						7,
+						0
+					],
+					[
+						78150,
+						3,
+						0
+					],
+					[
+						78300,
+						6,
+						0
+					],
+					[
+						78300,
+						2,
+						0
+					],
+					[
+						78450,
+						5,
+						0
+					],
+					[
+						78450,
+						1,
+						0
+					],
+					[
+						78600,
+						4,
+						0
+					],
+					[
+						78600,
+						0,
+						0
+					],
+					[
+						78750,
+						7,
+						0
+					],
+					[
+						78750,
+						3,
+						0
+					],
+					[
+						78825,
+						4,
+						0
+					],
+					[
+						78825,
+						0,
+						0
+					],
+					[
+						78900,
+						7,
+						0
+					],
+					[
+						78900,
+						3,
+						0
+					],
+					[
+						79050,
+						5,
+						0
+					],
+					[
+						79050,
+						1,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78000,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78075,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78150,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78225,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78300,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78375,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78450,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78525,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78600,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78675,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78750,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78825,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78900,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 78975,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79050,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79125,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						79200,
+						4,
+						0
+					],
+					[
+						79200,
+						0,
+						0
+					],
+					[
+						79350,
+						6,
+						0
+					],
+					[
+						79350,
+						2,
+						0
+					],
+					[
+						79425,
+						5,
+						0
+					],
+					[
+						79425,
+						1,
+						0
+					],
+					[
+						79500,
+						7,
+						0
+					],
+					[
+						79500,
+						3,
+						0
+					],
+					[
+						79650,
+						4,
+						0
+					],
+					[
+						79650,
+						0,
+						0
+					],
+					[
+						79725,
+						7,
+						0
+					],
+					[
+						79725,
+						3,
+						0
+					],
+					[
+						79800,
+						4,
+						0
+					],
+					[
+						79800,
+						0,
+						0
+					],
+					[
+						79950,
+						6,
+						0
+					],
+					[
+						79950,
+						2,
+						0
+					],
+					[
+						80025,
+						5,
+						0
+					],
+					[
+						80025,
+						1,
+						0
+					],
+					[
+						80100,
+						7,
+						0
+					],
+					[
+						80100,
+						3,
+						0
+					],
+					[
+						80250,
+						4,
+						0
+					],
+					[
+						80250,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79200,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79275,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79350,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79425,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79500,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79575,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79650,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79725,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 79950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80325,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						80400,
+						6,
+						0
+					],
+					[
+						80400,
+						2,
+						0
+					],
+					[
+						80475,
+						5,
+						0
+					],
+					[
+						80475,
+						1,
+						0
+					],
+					[
+						80550,
+						4,
+						0
+					],
+					[
+						80550,
+						0,
+						0
+					],
+					[
+						80700,
+						7,
+						0
+					],
+					[
+						80700,
+						3,
+						0
+					],
+					[
+						80775,
+						4,
+						0
+					],
+					[
+						80775,
+						0,
+						0
+					],
+					[
+						80850,
+						5,
+						0
+					],
+					[
+						80850,
+						1,
+						0
+					],
+					[
+						80925,
+						7,
+						0
+					],
+					[
+						80925,
+						3,
+						0
+					],
+					[
+						81300,
+						5,
+						0
+					],
+					[
+						81300,
+						1,
+						0
+					],
+					[
+						81450,
+						4,
+						0
+					],
+					[
+						81450,
+						0,
+						0
+					],
+					[
+						81000,
+						2,
+						0,
+						0
+					],
+					[
+						81000,
+						6,
+						0,
+						0
+					],
+					[
+						81150,
+						3,
+						0,
+						0
+					],
+					[
+						81150,
+						7,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80400,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80475,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80550,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80625,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80700,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80775,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80850,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 80925,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81000,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81075,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81150,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81225,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81300,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81375,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81450,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81525,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						81600,
+						0,
+						0
+					],
+					[
+						81825,
+						1,
+						0
+					],
+					[
+						81900,
+						3,
+						0
+					],
+					[
+						82050,
+						3,
+						0
+					],
+					[
+						82200,
+						6,
+						0
+					],
+					[
+						82350,
+						6,
+						0
+					],
+					[
+						82500,
+						7,
+						0
+					],
+					[
+						82650,
+						7,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81600,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81675,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81750,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81825,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81900,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 81975,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82050,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82125,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82200,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82275,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82350,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82425,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82500,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82575,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82650,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82725,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						82800,
+						1,
+						0
+					],
+					[
+						82950,
+						1,
+						0
+					],
+					[
+						83025,
+						3,
+						0
+					],
+					[
+						83100,
+						2,
+						0
+					],
+					[
+						83250,
+						1,
+						0
+					],
+					[
+						83400,
+						0,
+						0
+					],
+					[
+						83550,
+						7,
+						0
+					],
+					[
+						83550,
+						3,
+						0
+					],
+					[
+						83700,
+						5,
+						0
+					],
+					[
+						83700,
+						1,
+						0
+					],
+					[
+						83850,
+						6,
+						0
+					],
+					[
+						83850,
+						2,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 82950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83325,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83400,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83475,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83550,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83625,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83700,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83775,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83850,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 83925,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						84000,
+						0,
+						0
+					],
+					[
+						84150,
+						2,
+						0
+					],
+					[
+						84225,
+						1,
+						0
+					],
+					[
+						84300,
+						7,
+						0
+					],
+					[
+						84525,
+						7,
+						0
+					],
+					[
+						84600,
+						0,
+						0,
+						0
+					],
+					[
+						84750,
+						2,
+						0,
+						0
+					],
+					[
+						84825,
+						1,
+						0,
+						0
+					],
+					[
+						84900,
+						7,
+						0
+					],
+					[
+						85050,
+						4,
+						0,
+						0
+					],
+					[
+						84450,
+						6,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84000,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84075,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84150,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84225,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84300,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84375,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84450,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84525,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84600,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84675,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84750,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"bf"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84825,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84900,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 84975,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"dad"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85050,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85125,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						85200,
+						7,
+						0
+					],
+					[
+						85200,
+						3,
+						0
+					],
+					[
+						85350,
+						4,
+						0
+					],
+					[
+						85350,
+						0,
+						0
+					],
+					[
+						85425,
+						6,
+						0
+					],
+					[
+						85425,
+						2,
+						0
+					],
+					[
+						85500,
+						5,
+						0
+					],
+					[
+						85500,
+						1,
+						0
+					],
+					[
+						85650,
+						6,
+						0
+					],
+					[
+						85650,
+						2,
+						0
+					],
+					[
+						85725,
+						4,
+						0
+					],
+					[
+						85725,
+						0,
+						0
+					],
+					[
+						85800,
+						7,
+						0
+					],
+					[
+						85800,
+						3,
+						0
+					],
+					[
+						85950,
+						6,
+						0
+					],
+					[
+						85950,
+						2,
+						0
+					],
+					[
+						86100,
+						5,
+						0
+					],
+					[
+						86100,
+						1,
+						0
+					],
+					[
+						86250,
+						4,
+						0
+					],
+					[
+						86250,
+						0,
+						0
+					]
+				],
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85200,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85275,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85350,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85425,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85500,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85575,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85650,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85725,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85800,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85875,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 85950,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 86025,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 86100,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 86175,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 86250,
+						"name": null,
+						"args": null
+					},
+					{
+						"events": [
+							{
+								"args": [
+									"center"
+								],
+								"name": "Set Cam Focus"
+							}
+						],
+						"time": 86325,
+						"name": null,
+						"args": null
+					}
+				],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						86400,
+						0,
+						0,
+						0
+					],
+					[
+						86400,
+						4,
+						1125,
+						0
+					],
+					[
+						86550,
+						1,
+						0,
+						0
+					],
+					[
+						86700,
+						2,
+						0,
+						0
+					],
+					[
+						86850,
+						3,
+						0,
+						0
+					],
+					[
+						87000,
+						2,
+						0,
+						0
+					],
+					[
+						87150,
+						1,
+						0,
+						0
+					],
+					[
+						87300,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						87600,
+						0,
+						0,
+						0
+					],
+					[
+						87750,
+						0,
+						0,
+						0
+					],
+					[
+						87900,
+						2,
+						0,
+						0
+					],
+					[
+						88200,
+						1,
+						225,
+						0
+					],
+					[
+						88650,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						89025,
+						0,
+						0,
+						0
+					],
+					[
+						89100,
+						1,
+						0,
+						0
+					],
+					[
+						89250,
+						0,
+						0,
+						0
+					],
+					[
+						89400,
+						2,
+						0,
+						0
+					],
+					[
+						89550,
+						3,
+						0,
+						0
+					],
+					[
+						89700,
+						2,
+						0,
+						0
+					],
+					[
+						89850,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						90000,
+						0,
+						0,
+						0
+					],
+					[
+						90225,
+						0,
+						0,
+						0
+					],
+					[
+						90450,
+						0,
+						0,
+						0
+					],
+					[
+						90600,
+						3,
+						0,
+						0
+					],
+					[
+						90750,
+						0,
+						375,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						91200,
+						0,
+						0
+					],
+					[
+						91350,
+						1,
+						0
+					],
+					[
+						91500,
+						2,
+						0
+					],
+					[
+						91650,
+						3,
+						0
+					],
+					[
+						91800,
+						2,
+						0
+					],
+					[
+						91950,
+						1,
+						0
+					],
+					[
+						92100,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						92400,
+						0,
+						0
+					],
+					[
+						92550,
+						0,
+						0
+					],
+					[
+						92700,
+						2,
+						0
+					],
+					[
+						93000,
+						1,
+						225
+					],
+					[
+						93450,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						93825,
+						0,
+						0
+					],
+					[
+						93900,
+						1,
+						0
+					],
+					[
+						94050,
+						0,
+						0
+					],
+					[
+						94200,
+						2,
+						0
+					],
+					[
+						94350,
+						3,
+						0
+					],
+					[
+						94500,
+						2,
+						0
+					],
+					[
+						94650,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						94800,
+						0,
+						0
+					],
+					[
+						95025,
+						0,
+						0
+					],
+					[
+						95250,
+						0,
+						0
+					],
+					[
+						95400,
+						3,
+						0
+					],
+					[
+						95550,
+						0,
+						0,
+						0
+					],
+					[
+						95700,
+						0,
+						225,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						96000,
+						2,
+						0,
+						0
+					],
+					[
+						96300,
+						0,
+						0,
+						0
+					],
+					[
+						96450,
+						2,
+						0,
+						0
+					],
+					[
+						96525,
+						3,
+						0,
+						0
+					],
+					[
+						96600,
+						2,
+						0,
+						0
+					],
+					[
+						97050,
+						2,
+						0,
+						0
+					],
+					[
+						96750,
+						0,
+						0,
+						0
+					],
+					[
+						96900,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						97200,
+						1,
+						0,
+						0
+					],
+					[
+						97425,
+						1,
+						0,
+						0
+					],
+					[
+						97500,
+						0,
+						0,
+						0
+					],
+					[
+						97650,
+						1,
+						0,
+						0
+					],
+					[
+						97800,
+						2,
+						0,
+						0
+					],
+					[
+						98100,
+						3,
+						0,
+						0
+					],
+					[
+						98250,
+						0,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						98400,
+						1,
+						0,
+						0
+					],
+					[
+						98550,
+						2,
+						0,
+						0
+					],
+					[
+						98625,
+						1,
+						0,
+						0
+					],
+					[
+						98700,
+						2,
+						0,
+						0
+					],
+					[
+						98850,
+						1,
+						0,
+						0
+					],
+					[
+						99000,
+						3,
+						0,
+						0
+					],
+					[
+						99150,
+						0,
+						0,
+						0
+					],
+					[
+						99225,
+						1,
+						0,
+						0
+					],
+					[
+						99300,
+						3,
+						0,
+						0
+					],
+					[
+						99450,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						99600,
+						1,
+						0,
+						0
+					],
+					[
+						99825,
+						1,
+						0,
+						0
+					],
+					[
+						100050,
+						1,
+						0,
+						0
+					],
+					[
+						100200,
+						0,
+						0,
+						0
+					],
+					[
+						100350,
+						1,
+						0,
+						0
+					],
+					[
+						100650,
+						1,
+						0,
+						0
+					],
+					[
+						99900,
+						0,
+						0,
+						0
+					],
+					[
+						100500,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100800,
+						2,
+						0,
+						0
+					],
+					[
+						101100,
+						0,
+						0,
+						0
+					],
+					[
+						101250,
+						2,
+						0,
+						0
+					],
+					[
+						101325,
+						3,
+						0,
+						0
+					],
+					[
+						101400,
+						2,
+						0,
+						0
+					],
+					[
+						101850,
+						2,
+						0,
+						0
+					],
+					[
+						101550,
+						0,
+						0,
+						0
+					],
+					[
+						101700,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						102000,
+						1,
+						0,
+						0
+					],
+					[
+						102225,
+						1,
+						0,
+						0
+					],
+					[
+						102300,
+						0,
+						0,
+						0
+					],
+					[
+						102450,
+						1,
+						0,
+						0
+					],
+					[
+						102600,
+						2,
+						0,
+						0
+					],
+					[
+						102900,
+						3,
+						0,
+						0
+					],
+					[
+						103050,
+						0,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103200,
+						1,
+						0,
+						0
+					],
+					[
+						103350,
+						2,
+						0,
+						0
+					],
+					[
+						103425,
+						1,
+						0,
+						0
+					],
+					[
+						103500,
+						2,
+						0,
+						0
+					],
+					[
+						103650,
+						1,
+						0,
+						0
+					],
+					[
+						103800,
+						3,
+						0,
+						0
+					],
+					[
+						103950,
+						0,
+						0,
+						0
+					],
+					[
+						104025,
+						1,
+						0,
+						0
+					],
+					[
+						104100,
+						3,
+						0,
+						0
+					],
+					[
+						104250,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						104400,
+						1,
+						0,
+						0
+					],
+					[
+						104625,
+						1,
+						0,
+						0
+					],
+					[
+						104850,
+						1,
+						0,
+						0
+					],
+					[
+						105000,
+						0,
+						0,
+						0
+					],
+					[
+						105150,
+						1,
+						0,
+						0
+					],
+					[
+						105450,
+						1,
+						0,
+						0
+					],
+					[
+						104700,
+						0,
+						0,
+						0
+					],
+					[
+						105300,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						105600,
+						1,
+						0,
+						0
+					],
+					[
+						105600,
+						6,
+						0,
+						0
+					],
+					[
+						106050,
+						6,
+						0,
+						0
+					],
+					[
+						106200,
+						1,
+						0,
+						0
+					],
+					[
+						106462.5,
+						7,
+						0,
+						0
+					],
+					[
+						106500,
+						0,
+						0,
+						0
+					],
+					[
+						106500,
+						6,
+						0,
+						0
+					],
+					[
+						106650,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						106800,
+						2,
+						0,
+						0
+					],
+					[
+						107100,
+						2,
+						0,
+						0
+					],
+					[
+						107100,
+						4,
+						0,
+						0
+					],
+					[
+						107250,
+						0,
+						0,
+						0
+					],
+					[
+						107400,
+						1,
+						0,
+						0
+					],
+					[
+						107400,
+						6,
+						0,
+						0
+					],
+					[
+						107700,
+						3,
+						0,
+						0
+					],
+					[
+						107850,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108000,
+						0,
+						0,
+						0
+					],
+					[
+						108000,
+						5,
+						1125,
+						0
+					],
+					[
+						108150,
+						2,
+						0,
+						0
+					],
+					[
+						108300,
+						1,
+						0,
+						0
+					],
+					[
+						108450,
+						0,
+						0,
+						0
+					],
+					[
+						108600,
+						1,
+						0,
+						0
+					],
+					[
+						108750,
+						2,
+						0,
+						0
+					],
+					[
+						108900,
+						3,
+						0,
+						0
+					],
+					[
+						109050,
+						0,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						109200,
+						5,
+						0,
+						0
+					],
+					[
+						109200,
+						2,
+						0,
+						0
+					],
+					[
+						109500,
+						4,
+						0,
+						0
+					],
+					[
+						109500,
+						0,
+						0,
+						0
+					],
+					[
+						109650,
+						5,
+						0,
+						0
+					],
+					[
+						109800,
+						7,
+						0,
+						0
+					],
+					[
+						109800,
+						0,
+						0,
+						0
+					],
+					[
+						110100,
+						6,
+						0,
+						0
+					],
+					[
+						110100,
+						1,
+						0,
+						0
+					],
+					[
+						110250,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110400,
+						3,
+						0,
+						0
+					],
+					[
+						110400,
+						7,
+						525.000000000015,
+						0
+					],
+					[
+						110700,
+						1,
+						0,
+						0
+					],
+					[
+						111000,
+						4,
+						450,
+						0
+					],
+					[
+						111000,
+						1,
+						0,
+						0
+					],
+					[
+						111300,
+						0,
+						0,
+						0
+					],
+					[
+						111450,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						111600,
+						7,
+						0,
+						0
+					],
+					[
+						111600,
+						2,
+						0,
+						0
+					],
+					[
+						111900,
+						7,
+						0,
+						0
+					],
+					[
+						111900,
+						1,
+						0,
+						0
+					],
+					[
+						112200,
+						4,
+						0,
+						0
+					],
+					[
+						112200,
+						1,
+						0,
+						0
+					],
+					[
+						112500,
+						4,
+						0,
+						0
+					],
+					[
+						112500,
+						1,
+						0,
+						0
+					],
+					[
+						112650,
+						3,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						112800,
+						7,
+						0,
+						0
+					],
+					[
+						112800,
+						2,
+						0,
+						0
+					],
+					[
+						112950,
+						5,
+						0,
+						0
+					],
+					[
+						112950,
+						1,
+						0,
+						0
+					],
+					[
+						113100,
+						4,
+						0,
+						0
+					],
+					[
+						113100,
+						0,
+						0,
+						0
+					],
+					[
+						113250,
+						1,
+						0,
+						0
+					],
+					[
+						113400,
+						7,
+						0,
+						0
+					],
+					[
+						113400,
+						2,
+						0,
+						0
+					],
+					[
+						113550,
+						5,
+						0,
+						0
+					],
+					[
+						113550,
+						3,
+						0,
+						0
+					],
+					[
+						113700,
+						4,
+						225,
+						0
+					],
+					[
+						113700,
+						0,
+						0,
+						0
+					],
+					[
+						113850,
+						3,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						114000,
+						2,
+						0,
+						0
+					],
+					[
+						114000,
+						4,
+						0,
+						0
+					],
+					[
+						114150,
+						6,
+						0,
+						0
+					],
+					[
+						114150,
+						2,
+						0,
+						0
+					],
+					[
+						114225,
+						0,
+						0,
+						0
+					],
+					[
+						114300,
+						7,
+						0,
+						0
+					],
+					[
+						114300,
+						2,
+						0,
+						0
+					],
+					[
+						114450,
+						2,
+						0,
+						0
+					],
+					[
+						114600,
+						4,
+						0,
+						0
+					],
+					[
+						114600,
+						2,
+						0,
+						0
+					],
+					[
+						114750,
+						6,
+						0,
+						0
+					],
+					[
+						114750,
+						1,
+						0,
+						0
+					],
+					[
+						114900,
+						7,
+						225,
+						0
+					],
+					[
+						114900,
+						1,
+						0,
+						0
+					],
+					[
+						115050,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						115200,
+						6,
+						0,
+						0
+					],
+					[
+						115350,
+						6,
+						0,
+						0
+					],
+					[
+						115500,
+						5,
+						0,
+						0
+					],
+					[
+						115650,
+						5,
+						0,
+						0
+					],
+					[
+						115800,
+						6,
+						0,
+						0
+					],
+					[
+						115950,
+						6,
+						0,
+						0
+					],
+					[
+						116100,
+						5,
+						0,
+						0
+					],
+					[
+						116250,
+						5,
+						0,
+						0
+					],
+					[
+						115200,
+						2,
+						0,
+						0
+					],
+					[
+						115500,
+						0,
+						0,
+						0
+					],
+					[
+						115650,
+						2,
+						0,
+						0
+					],
+					[
+						115725,
+						3,
+						0,
+						0
+					],
+					[
+						115800,
+						2,
+						0,
+						0
+					],
+					[
+						116250,
+						2,
+						0,
+						0
+					],
+					[
+						115950,
+						0,
+						0,
+						0
+					],
+					[
+						116100,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						116400,
+						7,
+						0,
+						0
+					],
+					[
+						116700,
+						7,
+						0,
+						0
+					],
+					[
+						117000,
+						7,
+						0,
+						0
+					],
+					[
+						117300,
+						7,
+						0,
+						0
+					],
+					[
+						117375,
+						4,
+						0,
+						0
+					],
+					[
+						117450,
+						7,
+						0,
+						0
+					],
+					[
+						116400,
+						1,
+						0,
+						0
+					],
+					[
+						116625,
+						1,
+						0,
+						0
+					],
+					[
+						116700,
+						0,
+						0,
+						0
+					],
+					[
+						116850,
+						1,
+						0,
+						0
+					],
+					[
+						117000,
+						2,
+						0,
+						0
+					],
+					[
+						117300,
+						3,
+						0,
+						0
+					],
+					[
+						117450,
+						0,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						117600,
+						6,
+						0,
+						0
+					],
+					[
+						117900,
+						4,
+						0,
+						0
+					],
+					[
+						118200,
+						6,
+						0,
+						0
+					],
+					[
+						118500,
+						5,
+						0,
+						0
+					],
+					[
+						117600,
+						1,
+						0,
+						0
+					],
+					[
+						117750,
+						2,
+						0,
+						0
+					],
+					[
+						117825,
+						1,
+						0,
+						0
+					],
+					[
+						117900,
+						2,
+						0,
+						0
+					],
+					[
+						118050,
+						1,
+						0,
+						0
+					],
+					[
+						118200,
+						3,
+						0,
+						0
+					],
+					[
+						118350,
+						0,
+						0,
+						0
+					],
+					[
+						118425,
+						1,
+						0,
+						0
+					],
+					[
+						118500,
+						3,
+						0,
+						0
+					],
+					[
+						118650,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						118800,
+						7,
+						0,
+						0
+					],
+					[
+						119100,
+						7,
+						0,
+						0
+					],
+					[
+						119400,
+						5,
+						0,
+						0
+					],
+					[
+						119550,
+						7,
+						0,
+						0
+					],
+					[
+						119700,
+						6,
+						0,
+						0
+					],
+					[
+						119850,
+						5,
+						0,
+						0
+					],
+					[
+						118800,
+						1,
+						0,
+						0
+					],
+					[
+						119025,
+						1,
+						0,
+						0
+					],
+					[
+						119250,
+						1,
+						0,
+						0
+					],
+					[
+						119400,
+						0,
+						0,
+						0
+					],
+					[
+						119550,
+						1,
+						0,
+						0
+					],
+					[
+						119850,
+						1,
+						0,
+						0
+					],
+					[
+						119100,
+						0,
+						0,
+						0
+					],
+					[
+						119700,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						120000,
+						0,
+						0,
+						0
+					],
+					[
+						120000,
+						4,
+						0,
+						0
+					],
+					[
+						120150,
+						1,
+						0,
+						0
+					],
+					[
+						120300,
+						2,
+						0,
+						0
+					],
+					[
+						120300,
+						4,
+						0,
+						0
+					],
+					[
+						120450,
+						3,
+						0,
+						0
+					],
+					[
+						120600,
+						2,
+						0,
+						0
+					],
+					[
+						120600,
+						6,
+						0,
+						0
+					],
+					[
+						120750,
+						4,
+						0,
+						0
+					],
+					[
+						120750,
+						1,
+						0,
+						0
+					],
+					[
+						120900,
+						6,
+						0,
+						0
+					],
+					[
+						121050,
+						4,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						121200,
+						0,
+						0,
+						0
+					],
+					[
+						121200,
+						4,
+						0,
+						0
+					],
+					[
+						121350,
+						1,
+						0,
+						0
+					],
+					[
+						121500,
+						2,
+						0,
+						0
+					],
+					[
+						121500,
+						4,
+						0,
+						0
+					],
+					[
+						121650,
+						0,
+						0,
+						0
+					],
+					[
+						121800,
+						2,
+						0,
+						0
+					],
+					[
+						121800,
+						7,
+						0,
+						0
+					],
+					[
+						121950,
+						1,
+						0,
+						0
+					],
+					[
+						121950,
+						4,
+						0,
+						0
+					],
+					[
+						122025,
+						4,
+						0,
+						0
+					],
+					[
+						122100,
+						7,
+						0,
+						0
+					],
+					[
+						122250,
+						4,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						122400,
+						6,
+						0,
+						0
+					],
+					[
+						122400,
+						0,
+						0,
+						0
+					],
+					[
+						122550,
+						1,
+						0,
+						0
+					],
+					[
+						122700,
+						6,
+						0,
+						0
+					],
+					[
+						122700,
+						2,
+						0,
+						0
+					],
+					[
+						122850,
+						3,
+						0,
+						0
+					],
+					[
+						123000,
+						6,
+						0,
+						0
+					],
+					[
+						123000,
+						2,
+						0,
+						0
+					],
+					[
+						123150,
+						1,
+						0,
+						0
+					],
+					[
+						123150,
+						6,
+						0,
+						0
+					],
+					[
+						123300,
+						7,
+						0,
+						0
+					],
+					[
+						123300,
+						0,
+						0,
+						0
+					],
+					[
+						123450,
+						6,
+						0,
+						0
+					],
+					[
+						123450,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						123600,
+						2,
+						0,
+						0
+					],
+					[
+						123600,
+						5,
+						0,
+						0
+					],
+					[
+						123750,
+						3,
+						0,
+						0
+					],
+					[
+						123900,
+						1,
+						0,
+						0
+					],
+					[
+						123900,
+						5,
+						0,
+						0
+					],
+					[
+						124050,
+						4,
+						0,
+						0
+					],
+					[
+						124050,
+						0,
+						0,
+						0
+					],
+					[
+						124200,
+						3,
+						0,
+						0
+					],
+					[
+						124200,
+						4,
+						0,
+						0
+					],
+					[
+						124350,
+						4,
+						0,
+						0
+					],
+					[
+						124350,
+						0,
+						0,
+						0
+					],
+					[
+						124500,
+						1,
+						0,
+						0
+					],
+					[
+						124500,
+						5,
+						0,
+						0
+					],
+					[
+						124650,
+						2,
+						0,
+						0
+					],
+					[
+						124650,
+						5,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						124800,
+						4,
+						0,
+						0
+					],
+					[
+						124950,
+						5,
+						0,
+						0
+					],
+					[
+						125100,
+						6,
+						0,
+						0
+					],
+					[
+						125250,
+						7,
+						0,
+						0
+					],
+					[
+						125400,
+						6,
+						0,
+						0
+					],
+					[
+						125550,
+						5,
+						0,
+						0
+					],
+					[
+						125700,
+						5,
+						0,
+						0
+					],
+					[
+						124800,
+						2,
+						0,
+						0
+					],
+					[
+						125100,
+						0,
+						0,
+						0
+					],
+					[
+						125250,
+						2,
+						0,
+						0
+					],
+					[
+						125325,
+						3,
+						0,
+						0
+					],
+					[
+						125400,
+						2,
+						0,
+						0
+					],
+					[
+						125850,
+						2,
+						0,
+						0
+					],
+					[
+						125550,
+						0,
+						0,
+						0
+					],
+					[
+						125700,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						126000,
+						4,
+						0,
+						0
+					],
+					[
+						126150,
+						4,
+						0,
+						0
+					],
+					[
+						126300,
+						6,
+						0,
+						0
+					],
+					[
+						126600,
+						5,
+						224.999999999985,
+						0
+					],
+					[
+						127050,
+						5,
+						150,
+						0
+					],
+					[
+						126000,
+						1,
+						0,
+						0
+					],
+					[
+						126225,
+						1,
+						0,
+						0
+					],
+					[
+						126300,
+						0,
+						0,
+						0
+					],
+					[
+						126450,
+						1,
+						0,
+						0
+					],
+					[
+						126600,
+						2,
+						0,
+						0
+					],
+					[
+						126900,
+						3,
+						0,
+						0
+					],
+					[
+						127050,
+						0,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						127425,
+						4,
+						0,
+						0
+					],
+					[
+						127500,
+						5,
+						0,
+						0
+					],
+					[
+						127650,
+						4,
+						0,
+						0
+					],
+					[
+						127800,
+						6,
+						0,
+						0
+					],
+					[
+						127950,
+						7,
+						0,
+						0
+					],
+					[
+						128100,
+						6,
+						0,
+						0
+					],
+					[
+						128250,
+						5,
+						0,
+						0
+					],
+					[
+						127200,
+						1,
+						0,
+						0
+					],
+					[
+						127350,
+						2,
+						0,
+						0
+					],
+					[
+						127425,
+						1,
+						0,
+						0
+					],
+					[
+						127500,
+						2,
+						0,
+						0
+					],
+					[
+						127650,
+						1,
+						0,
+						0
+					],
+					[
+						127800,
+						3,
+						0,
+						0
+					],
+					[
+						127950,
+						0,
+						0,
+						0
+					],
+					[
+						128025,
+						1,
+						0,
+						0
+					],
+					[
+						128100,
+						3,
+						0,
+						0
+					],
+					[
+						128250,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						128400,
+						4,
+						0,
+						0
+					],
+					[
+						128625,
+						4,
+						0,
+						0
+					],
+					[
+						128850,
+						4,
+						0,
+						0
+					],
+					[
+						129000,
+						7,
+						0,
+						0
+					],
+					[
+						129150,
+						4,
+						0,
+						0
+					],
+					[
+						129300,
+						4,
+						225.000000000015,
+						0
+					],
+					[
+						128400,
+						1,
+						0,
+						0
+					],
+					[
+						128625,
+						1,
+						0,
+						0
+					],
+					[
+						128850,
+						1,
+						0,
+						0
+					],
+					[
+						129000,
+						0,
+						0,
+						0
+					],
+					[
+						129150,
+						1,
+						0,
+						0
+					],
+					[
+						129450,
+						1,
+						0,
+						0
+					],
+					[
+						128700,
+						0,
+						0,
+						0
+					],
+					[
+						129300,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						129600,
+						4,
+						0,
+						0
+					],
+					[
+						129750,
+						5,
+						0,
+						0
+					],
+					[
+						129900,
+						6,
+						0,
+						0
+					],
+					[
+						130050,
+						7,
+						0,
+						0
+					],
+					[
+						130200,
+						6,
+						0,
+						0
+					],
+					[
+						130350,
+						5,
+						0,
+						0
+					],
+					[
+						130500,
+						5,
+						0,
+						0
+					],
+					[
+						129600,
+						2,
+						0,
+						0
+					],
+					[
+						129900,
+						0,
+						0,
+						0
+					],
+					[
+						130050,
+						2,
+						0,
+						0
+					],
+					[
+						130125,
+						3,
+						0,
+						0
+					],
+					[
+						130200,
+						2,
+						0,
+						0
+					],
+					[
+						130650,
+						2,
+						0,
+						0
+					],
+					[
+						130350,
+						0,
+						0,
+						0
+					],
+					[
+						130500,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						130800,
+						4,
+						0,
+						0
+					],
+					[
+						130950,
+						4,
+						0,
+						0
+					],
+					[
+						131100,
+						6,
+						0,
+						0
+					],
+					[
+						131400,
+						5,
+						224.999999999985,
+						0
+					],
+					[
+						131850,
+						5,
+						150,
+						0
+					],
+					[
+						130800,
+						1,
+						0,
+						0
+					],
+					[
+						131025,
+						1,
+						0,
+						0
+					],
+					[
+						131100,
+						0,
+						0,
+						0
+					],
+					[
+						131250,
+						1,
+						0,
+						0
+					],
+					[
+						131400,
+						2,
+						0,
+						0
+					],
+					[
+						131700,
+						3,
+						0,
+						0
+					],
+					[
+						131850,
+						0,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						132225,
+						4,
+						0,
+						0
+					],
+					[
+						132300,
+						5,
+						0,
+						0
+					],
+					[
+						132450,
+						4,
+						0,
+						0
+					],
+					[
+						132600,
+						6,
+						0,
+						0
+					],
+					[
+						132750,
+						7,
+						0,
+						0
+					],
+					[
+						132900,
+						6,
+						0,
+						0
+					],
+					[
+						133050,
+						5,
+						0,
+						0
+					],
+					[
+						132000,
+						1,
+						0,
+						0
+					],
+					[
+						132150,
+						2,
+						0,
+						0
+					],
+					[
+						132225,
+						1,
+						0,
+						0
+					],
+					[
+						132300,
+						2,
+						0,
+						0
+					],
+					[
+						132450,
+						1,
+						0,
+						0
+					],
+					[
+						132600,
+						3,
+						0,
+						0
+					],
+					[
+						132750,
+						0,
+						0,
+						0
+					],
+					[
+						132825,
+						1,
+						0,
+						0
+					],
+					[
+						132900,
+						3,
+						0,
+						0
+					],
+					[
+						133050,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						133200,
+						4,
+						0,
+						0
+					],
+					[
+						133425,
+						4,
+						0,
+						0
+					],
+					[
+						133650,
+						4,
+						0,
+						0
+					],
+					[
+						133800,
+						7,
+						0,
+						0
+					],
+					[
+						133950,
+						4,
+						0,
+						0
+					],
+					[
+						134100,
+						4,
+						225.000000000015,
+						0
+					],
+					[
+						133200,
+						1,
+						0,
+						0
+					],
+					[
+						133425,
+						1,
+						0,
+						0
+					],
+					[
+						133650,
+						1,
+						0,
+						0
+					],
+					[
+						133800,
+						0,
+						0,
+						0
+					],
+					[
+						133950,
+						1,
+						0,
+						0
+					],
+					[
+						134250,
+						1,
+						0,
+						0
+					],
+					[
+						133500,
+						0,
+						0,
+						0
+					],
+					[
+						134100,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						134400,
+						6,
+						0
+					],
+					[
+						134400,
+						2,
+						0
+					],
+					[
+						134700,
+						6,
+						0
+					],
+					[
+						134700,
+						2,
+						0
+					],
+					[
+						134850,
+						6,
+						0
+					],
+					[
+						134850,
+						2,
+						0
+					],
+					[
+						135150,
+						6,
+						0
+					],
+					[
+						135150,
+						2,
+						0
+					],
+					[
+						135450,
+						6,
+						0
+					],
+					[
+						135450,
+						2,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						135750,
+						2,
+						0
+					],
+					[
+						135750,
+						6,
+						375,
+						0
+					],
+					[
+						136500,
+						6,
+						0
+					],
+					[
+						136500,
+						2,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						136800,
+						5,
+						0
+					],
+					[
+						136800,
+						1,
+						0
+					],
+					[
+						137100,
+						5,
+						0
+					],
+					[
+						137100,
+						1,
+						0
+					],
+					[
+						137250,
+						5,
+						0
+					],
+					[
+						137250,
+						1,
+						0
+					],
+					[
+						137550,
+						6,
+						0
+					],
+					[
+						137550,
+						2,
+						0
+					],
+					[
+						137850,
+						2,
+						0
+					],
+					[
+						137850,
+						6,
+						1125,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						138150,
+						2,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						139200,
+						5,
+						224.999999999996
+					],
+					[
+						139200,
+						2,
+						224.999999999996
+					],
+					[
+						139500,
+						2,
+						0
+					],
+					[
+						139500,
+						5,
+						0
+					],
+					[
+						139650,
+						2,
+						224.999999999996
+					],
+					[
+						139650,
+						5,
+						149.999999999996
+					],
+					[
+						139950,
+						2,
+						0
+					],
+					[
+						139950,
+						5,
+						0
+					],
+					[
+						140250,
+						6,
+						225
+					],
+					[
+						140250,
+						3,
+						225
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						140550,
+						1,
+						0
+					],
+					[
+						140550,
+						4,
+						0
+					],
+					[
+						140850,
+						2,
+						0
+					],
+					[
+						140850,
+						5,
+						0
+					],
+					[
+						141150,
+						5,
+						375
+					],
+					[
+						141150,
+						2,
+						375
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						141600,
+						0,
+						225
+					],
+					[
+						141600,
+						4,
+						225
+					],
+					[
+						141900,
+						0,
+						0
+					],
+					[
+						141900,
+						4,
+						0
+					],
+					[
+						142050,
+						0,
+						225.000000000004
+					],
+					[
+						142050,
+						4,
+						225.000000000004
+					],
+					[
+						142350,
+						2,
+						0
+					],
+					[
+						142350,
+						6,
+						0
+					],
+					[
+						142650,
+						0,
+						1125
+					],
+					[
+						142650,
+						5,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						144000,
+						0,
+						0
+					],
+					[
+						144000,
+						4,
+						0,
+						0
+					],
+					[
+						144150,
+						5,
+						0
+					],
+					[
+						144150,
+						1,
+						0
+					],
+					[
+						144300,
+						6,
+						0
+					],
+					[
+						144300,
+						2,
+						0
+					],
+					[
+						144450,
+						7,
+						0
+					],
+					[
+						144450,
+						3,
+						0
+					],
+					[
+						144600,
+						6,
+						0
+					],
+					[
+						144600,
+						2,
+						0
+					],
+					[
+						144750,
+						5,
+						0
+					],
+					[
+						144750,
+						1,
+						0
+					],
+					[
+						144900,
+						5,
+						0
+					],
+					[
+						144900,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						145200,
+						4,
+						0
+					],
+					[
+						145200,
+						0,
+						0
+					],
+					[
+						145350,
+						4,
+						0
+					],
+					[
+						145350,
+						0,
+						0
+					],
+					[
+						145500,
+						6,
+						0
+					],
+					[
+						145500,
+						2,
+						0
+					],
+					[
+						145800,
+						5,
+						225
+					],
+					[
+						145800,
+						1,
+						225
+					],
+					[
+						146250,
+						5,
+						0
+					],
+					[
+						146250,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						146625,
+						4,
+						0
+					],
+					[
+						146625,
+						0,
+						0
+					],
+					[
+						146700,
+						5,
+						0
+					],
+					[
+						146700,
+						1,
+						0
+					],
+					[
+						146850,
+						4,
+						0
+					],
+					[
+						146850,
+						0,
+						0
+					],
+					[
+						147000,
+						6,
+						0
+					],
+					[
+						147000,
+						2,
+						0
+					],
+					[
+						147150,
+						7,
+						0
+					],
+					[
+						147150,
+						3,
+						0
+					],
+					[
+						147300,
+						6,
+						0
+					],
+					[
+						147300,
+						2,
+						0
+					],
+					[
+						147450,
+						5,
+						0
+					],
+					[
+						147450,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						147600,
+						4,
+						0
+					],
+					[
+						147600,
+						0,
+						0
+					],
+					[
+						147825,
+						4,
+						0
+					],
+					[
+						147825,
+						0,
+						0
+					],
+					[
+						148050,
+						4,
+						0
+					],
+					[
+						148050,
+						0,
+						0
+					],
+					[
+						148200,
+						7,
+						0
+					],
+					[
+						148200,
+						3,
+						0
+					],
+					[
+						148350,
+						0,
+						375
+					],
+					[
+						148350,
+						4,
+						0,
+						0
+					],
+					[
+						148500,
+						4,
+						225,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						148800,
+						0,
+						0
+					],
+					[
+						148800,
+						6,
+						0,
+						0
+					],
+					[
+						148950,
+						1,
+						0
+					],
+					[
+						149100,
+						2,
+						0
+					],
+					[
+						149250,
+						3,
+						0
+					],
+					[
+						149400,
+						2,
+						0
+					],
+					[
+						149400,
+						4,
+						0,
+						0
+					],
+					[
+						149550,
+						1,
+						0
+					],
+					[
+						149700,
+						1,
+						0
+					],
+					[
+						149700,
+						6,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						150000,
+						7,
+						525,
+						0
+					],
+					[
+						150000,
+						0,
+						0,
+						0
+					],
+					[
+						150150,
+						0,
+						0,
+						0
+					],
+					[
+						150300,
+						2,
+						0,
+						0
+					],
+					[
+						150600,
+						5,
+						0,
+						0
+					],
+					[
+						150600,
+						1,
+						225,
+						0
+					],
+					[
+						150900,
+						7,
+						0,
+						0
+					],
+					[
+						151050,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						151200,
+						6,
+						0,
+						0
+					],
+					[
+						151425,
+						0,
+						0,
+						0
+					],
+					[
+						151500,
+						4,
+						0,
+						0
+					],
+					[
+						151650,
+						0,
+						0,
+						0
+					],
+					[
+						151800,
+						5,
+						0,
+						0
+					],
+					[
+						151800,
+						2,
+						0,
+						0
+					],
+					[
+						151950,
+						3,
+						0,
+						0
+					],
+					[
+						152100,
+						7,
+						0,
+						0
+					],
+					[
+						152100,
+						2,
+						0,
+						0
+					],
+					[
+						152250,
+						6,
+						0,
+						0
+					],
+					[
+						152250,
+						1,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						152400,
+						5,
+						0,
+						0
+					],
+					[
+						152400,
+						0,
+						0,
+						0
+					],
+					[
+						152625,
+						0,
+						0,
+						0
+					],
+					[
+						152700,
+						4,
+						0,
+						0
+					],
+					[
+						152850,
+						0,
+						0,
+						0
+					],
+					[
+						153000,
+						5,
+						0,
+						0
+					],
+					[
+						153000,
+						3,
+						0,
+						0
+					],
+					[
+						153150,
+						0,
+						0,
+						0
+					],
+					[
+						153300,
+						6,
+						0,
+						0
+					],
+					[
+						153300,
+						0,
+						225.000000000029,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						153600,
+						0,
+						0
+					],
+					[
+						153600,
+						6,
+						0
+					],
+					[
+						153750,
+						1,
+						0
+					],
+					[
+						153900,
+						2,
+						0
+					],
+					[
+						154050,
+						3,
+						0
+					],
+					[
+						154200,
+						2,
+						0
+					],
+					[
+						154200,
+						4,
+						0
+					],
+					[
+						154350,
+						1,
+						0
+					],
+					[
+						154500,
+						1,
+						0
+					],
+					[
+						154500,
+						6,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						154800,
+						7,
+						525
+					],
+					[
+						154800,
+						0,
+						0
+					],
+					[
+						154950,
+						0,
+						0
+					],
+					[
+						155100,
+						2,
+						0
+					],
+					[
+						155400,
+						5,
+						0
+					],
+					[
+						155400,
+						1,
+						225
+					],
+					[
+						155700,
+						7,
+						0
+					],
+					[
+						155850,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						156000,
+						6,
+						0
+					],
+					[
+						156225,
+						0,
+						0
+					],
+					[
+						156300,
+						4,
+						0
+					],
+					[
+						156300,
+						1,
+						0
+					],
+					[
+						156450,
+						0,
+						0
+					],
+					[
+						156600,
+						5,
+						0
+					],
+					[
+						156600,
+						2,
+						0
+					],
+					[
+						156750,
+						3,
+						0
+					],
+					[
+						156900,
+						7,
+						0
+					],
+					[
+						156900,
+						2,
+						0
+					],
+					[
+						157050,
+						6,
+						0
+					],
+					[
+						157050,
+						1,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						157200,
+						5,
+						0
+					],
+					[
+						157200,
+						0,
+						0
+					],
+					[
+						157425,
+						0,
+						0
+					],
+					[
+						157500,
+						4,
+						0
+					],
+					[
+						157650,
+						0,
+						0
+					],
+					[
+						157800,
+						5,
+						0
+					],
+					[
+						157800,
+						3,
+						0
+					],
+					[
+						157950,
+						0,
+						375,
+						0
+					],
+					[
+						158100,
+						6,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						158400,
+						2,
+						0
+					],
+					[
+						158400,
+						6,
+						0,
+						0
+					],
+					[
+						159000,
+						0,
+						0
+					],
+					[
+						159000,
+						4,
+						0,
+						0
+					],
+					[
+						159300,
+						2,
+						0
+					],
+					[
+						159300,
+						6,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						159600,
+						3,
+						525
+					],
+					[
+						159600,
+						6,
+						0,
+						0
+					],
+					[
+						160200,
+						1,
+						0
+					],
+					[
+						160500,
+						3,
+						0
+					],
+					[
+						160500,
+						6,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						160800,
+						2,
+						0
+					],
+					[
+						160800,
+						6,
+						0,
+						0
+					],
+					[
+						161100,
+						0,
+						0
+					],
+					[
+						161100,
+						4,
+						0,
+						0
+					],
+					[
+						161400,
+						1,
+						0
+					],
+					[
+						161400,
+						6,
+						0,
+						0
+					],
+					[
+						161700,
+						3,
+						0
+					],
+					[
+						161700,
+						6,
+						0,
+						0
+					],
+					[
+						161850,
+						2,
+						0
+					],
+					[
+						161850,
+						7,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						162000,
+						1,
+						0
+					],
+					[
+						162000,
+						5,
+						0,
+						0
+					],
+					[
+						162300,
+						0,
+						0
+					],
+					[
+						162300,
+						4,
+						0,
+						0
+					],
+					[
+						162600,
+						1,
+						0
+					],
+					[
+						162600,
+						5,
+						0,
+						0
+					],
+					[
+						162900,
+						2,
+						0
+					],
+					[
+						162900,
+						6,
+						0,
+						0
+					]
+				],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"events": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"events": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"events": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"initialSpeed": 1.35,
+		"sliderVelocities": null,
+		"song": "Globetrotter",
+		"validScore": true,
+		"needsVoices": true,
+		"stage": "rooftop",
+		"bpm": 200,
+		"speed": 2.5
+	}
+}

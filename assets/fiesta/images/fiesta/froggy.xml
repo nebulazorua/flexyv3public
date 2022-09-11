@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="froggy.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="frogy instance 10000" x="2" y="2" width="365" height="354" frameX="0" frameY="-16" frameWidth="365" frameHeight="370"/>
+	<SubTexture name="frogy instance 10001" x="2" y="2" width="365" height="354" frameX="0" frameY="-16" frameWidth="365" frameHeight="370"/>
+	<SubTexture name="frogy instance 10002" x="2" y="358" width="347" height="366" frameX="-9" frameY="-4" frameWidth="365" frameHeight="370"/>
+	<SubTexture name="frogy instance 10003" x="2" y="358" width="347" height="366" frameX="-9" frameY="-4" frameWidth="365" frameHeight="370"/>
+	<SubTexture name="frogy instance 10004" x="351" y="358" width="341" height="370" frameX="-12" frameY="0" frameWidth="365" frameHeight="370"/>
+</TextureAtlas>

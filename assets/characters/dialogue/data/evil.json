@@ -1,0 +1,19 @@
+{
+  "spritesheet": "corrupt bf port",
+  "pos": "right",
+  "scale": 0.4,
+  "offset": [
+    -200,
+    -450
+  ],
+  "expressions": [
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "idle",
+      "prefix": "corrupt"
+    }
+  ]
+}

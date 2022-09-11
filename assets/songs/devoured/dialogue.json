@@ -1,0 +1,27 @@
+{
+  "dialogue": [
+    {
+      "character": "dmp",
+      "expression": "tearingup",
+      "text": "W-why? What did we do to hurt you? I thought we were friends!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "evil",
+      "expression": "idle",
+      "text": "",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "dmp",
+      "expression": "tearingup",
+      "text": "Please, just leave! Whatever happened, I'm sorry, please just leave my friends alone!",
+      "speed": 0.05,
+      "box": "normal"
+    }
+
+  ],
+  "music": "Diablo"
+}

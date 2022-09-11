@@ -1,0 +1,130 @@
+{
+	"charOffset": [
+		0,
+		0
+	],
+	"camOffset": [
+		0,
+		0
+	],
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "BF idle dance",
+			"looped": true,
+			"name": "idle"
+		},
+		{
+			"prefix": "BF NOTE UP0",
+			"offsets": [
+				-40,
+				36
+			],
+			"fps": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE LEFT0",
+			"offsets": [
+				12,
+				-12
+			],
+			"fps": 24,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE RIGHT0",
+			"offsets": [
+				-44,
+				-7
+			],
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE DOWN0",
+			"offsets": [
+				-17,
+				-59
+			],
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE UP MISS",
+			"offsets": [
+				-45,
+				37
+			],
+			"fps": 24,
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE RIGHT MISS",
+			"offsets": [
+				-44,
+				18
+			],
+			"fps": 24,
+			"name": "singRIGHTmiss",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE LEFT MISS",
+			"offsets": [
+				10,
+				19
+			],
+			"fps": 24,
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"prefix": "BF NOTE DOWN MISS",
+			"offsets": [
+				-7,
+				-22
+			],
+			"fps": 24,
+			"name": "singDOWNmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-44,
+				0
+			],
+			"fps": 24,
+			"prefix": "BF HEY!!",
+			"looped": false,
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "BF idle shaking",
+			"looped": true,
+			"name": "scared"
+		}
+	],
+	"spritesheet": "pissbaby_stepbro",
+	"singDur": 4,
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "dickhead",
+	"beatDancer": false,
+	"healthColor": "0xFFBE72FF",
+	"format": "andromeda"
+}

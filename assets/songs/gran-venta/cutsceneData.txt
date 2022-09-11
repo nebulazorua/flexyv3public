@@ -1,0 +1,30 @@
+[ ]
+:flexy:Wow, amazing! You're really something special, huh?
+:bf:boop skda bep!
+[2]
+:flexy:Anyways, that's it from me! Back to flesh n' blood.
+[ ]
+[4]
+:flexy:Bye, Boyfriend! Come back again sometime and we can party!
+:bf: "Bopeeba paribap!
+[5]
+:bf:Wow, that flexy guy sure could sing! Almost... *huff*  out-rapped me!
+:gf:Yeah, but now you're ready for the concert at the mall! I'm so proud!
+:bf:heh, im beat though, lets get home. 
+[6]
+:unknown:What a WONDERFUL show mister... uh... Boyfriend, was it? Thank you for hosting such an amazing concert! That Flexy guy really is something else, huh?
+:bf: Actually, my name is-
+[7]
+:merchant: Anyways, I was wondering if you were interested in purchasing some of my wares? I'm sure you recognize these guys.
+:bf: Right, that's... wonderful... but I think I'll pass, I don't really need it.
+[6]
+:gf: I think I'd want-
+:bf: I don't think you need it, hon. Let's just get going, I'm beat.
+[8]
+:merchant: Now you listen here you disrespectful, blue-haired little snot...
+[9]
+:merchant: I'll cut you some slack! 50% off! Take it or leave it.
+[10]
+:bf: Leave it, and leave US ALONE! Beep. Boop!
+[11]
+:merchant: That's IT. I'm tired of being disrespected by you, so let's settle this in a way you'll understand.

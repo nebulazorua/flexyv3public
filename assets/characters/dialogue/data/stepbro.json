@@ -1,0 +1,156 @@
+{
+  "spritesheet": "stepbro",
+  "pos": "right",
+  "scale": 0.4,
+  "offset": [
+    -200,
+    -350
+  ],
+  "expressions": [
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "idle",
+      "prefix": "idle"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "awooga",
+      "prefix": "awooga"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "blush",
+      "prefix": "blush"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "cocky",
+      "prefix": "cocky"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "cockybitch",
+      "prefix": "cockybitch"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "concern",
+      "prefix": "concern"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "deargod",
+      "prefix": "deargod"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "fearful",
+      "prefix": "fearful"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "irritated",
+      "prefix": "irritated"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "miss",
+      "prefix": "miss"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "pa",
+      "prefix": "pa"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "pog",
+      "prefix": "pog"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "pussy",
+      "prefix": "pussy"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "sheesh",
+      "prefix": "sheesh"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "smol",
+      "prefix": "smol"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "smug",
+      "prefix": "smug"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "terrified",
+      "prefix": "terrified"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "what",
+      "prefix": "what"
+    }
+
+  ]
+}

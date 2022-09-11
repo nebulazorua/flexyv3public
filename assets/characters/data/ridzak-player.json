@@ -1,0 +1,146 @@
+{
+	"format": "andromeda",
+	"camOffset": [
+		-100,
+		0
+	],
+	"healthColor": "0xFFD5003C",
+	"beatDancer": false,
+	"charOffset": [
+		0,
+		0
+	],
+	"flipX": false,
+	"spritesheet": "RidZakBf",
+	"anims": [
+		{
+			"prefix": "Idle",
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"prefix": "GameOverSt",
+			"offsets": [
+				34,
+				29
+			],
+			"fps": 24,
+			"name": "firstDeath",
+			"looped": false
+		},
+		{
+			"prefix": "GameOverWait",
+			"offsets": [
+				29,
+				3
+			],
+			"fps": 24,
+			"name": "deathLoop",
+			"looped": true
+		},
+		{
+			"prefix": "GameOverSelected",
+			"offsets": [
+				47,
+				118
+			],
+			"fps": 24,
+			"name": "deathConfirm",
+			"looped": false
+		},
+		{
+			"prefix": "LeftNote0",
+			"offsets": [
+				101,
+				52
+			],
+			"fps": 24,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"prefix": "UpNote0",
+			"offsets": [
+				103,
+				38
+			],
+			"fps": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"prefix": "RightNote0",
+			"offsets": [
+				-8,
+				12
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"prefix": "DownNote0",
+			"offsets": [
+				15,
+				-28
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"prefix": "LeftNoteM",
+			"offsets": [
+				73,
+				46
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"prefix": "UpNoteM",
+			"offsets": [
+				108,
+				27
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"prefix": "RightNoteM",
+			"offsets": [
+				-35,
+				12
+			],
+			"fps": 24,
+			"name": "singRIGHTmiss",
+			"looped": false
+		},
+		{
+			"prefix": "DownNotem",
+			"offsets": [
+				18,
+				-30
+			],
+			"fps": 24,
+			"name": "singDOWNmiss",
+			"looped": false
+		}
+	],
+	"singDur": 4,
+	"antialiasing": true,
+	"iconName": "ridzak",
+	"scale": 1.2
+}

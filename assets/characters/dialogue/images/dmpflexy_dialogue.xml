@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dmpflexy_dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dmphappy0000" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="sidelook0000" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="dmppissed0000" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="censored0000" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="confident0000" x="0" y="1000" width="1000" height="1000"/>
+	<SubTexture name="tearingup0000" x="1000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="dmpcorrupted0000" x="2000" y="1000" width="1000" height="1000"/>
+</TextureAtlas>

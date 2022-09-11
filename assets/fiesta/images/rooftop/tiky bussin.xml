@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tiky bussin.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tiky bussin0000" x="18" y="18" width="227" height="274" frameX="-4" frameY="0" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0001" x="18" y="18" width="227" height="274" frameX="-4" frameY="0" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0002" x="306" y="18" width="239" height="264" frameX="0" frameY="-15" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0003" x="306" y="18" width="239" height="264" frameX="0" frameY="-15" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0004" x="606" y="18" width="233" height="272" frameX="-2" frameY="-5" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0005" x="606" y="18" width="233" height="272" frameX="-2" frameY="-5" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0006" x="18" y="353" width="228" height="275" frameX="-4" frameY="0" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0007" x="18" y="353" width="228" height="275" frameX="-4" frameY="0" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0008" x="18" y="18" width="227" height="274" frameX="-4" frameY="0" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0009" x="18" y="18" width="227" height="274" frameX="-4" frameY="0" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0010" x="18" y="18" width="227" height="274" frameX="-4" frameY="0" frameWidth="239" frameHeight="279"/>
+	<SubTexture name="tiky bussin0011" x="18" y="18" width="227" height="274" frameX="-4" frameY="0" frameWidth="239" frameHeight="279"/>
+</TextureAtlas>

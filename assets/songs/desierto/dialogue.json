@@ -1,0 +1,27 @@
+{
+  "dialogue": [
+    {
+      "character": "flexy",
+      "expression": "wink",
+      "text": "Whew, I think we got time for one more before the show, you game for another one?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "bf",
+      "expression": "peace",
+      "text": "Ba!",
+      "speed": 0.05,
+      "box": "loud"
+    },
+    {
+      "character": "flexy",
+      "expression": "showingteeth",
+      "text": "How about we pick things up a bit this time? Gotta get as ready as possible, we gotta knock ‘em dead tonight!",
+      "speed": 0.05,
+      "box": "normal"
+    }
+
+  ],
+  "music": "La_Charla"
+}

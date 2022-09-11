@@ -1,0 +1,75 @@
+{
+  "spritesheet": "flexy_dialogue",
+  "pos": "left",
+  "scale": 0.4,
+  "offset": [
+    -500,
+    -380
+  ],
+  "expressions": [
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "happy",
+      "prefix": "happy"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "huh",
+      "prefix": "browraised"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "showingteeth",
+      "prefix": "showingteeth"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "wink",
+      "prefix": "wink"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "tongueout",
+      "prefix": "tongueout"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "sweating",
+      "prefix": "sweating"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "mad",
+      "prefix": "mad"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "shocked",
+      "prefix": "guh"
+    }
+  ]
+}

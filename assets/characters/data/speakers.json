@@ -1,0 +1,26 @@
+{
+	"charOffset": [
+		0,
+		0
+	],
+	"singDur": 4,
+	"spritesheet": "speakers",
+	"anims": [
+		{
+			"prefix": "speakers",
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"name": "idle",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "gf",
+	"beatDancer": true,
+	"format": "andromeda",
+	"healthColor": "0xFFA5004D"
+}

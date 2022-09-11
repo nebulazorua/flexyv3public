@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Erect_Merchant_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="18" y="18" width="655" height="980" frameX="-2" frameY="-5" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0001" x="18" y="18" width="655" height="980" frameX="-2" frameY="-5" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0002" x="734" y="18" width="650" height="973" frameX="-2" frameY="-12" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0003" x="734" y="18" width="650" height="973" frameX="-2" frameY="-12" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0004" x="1445" y="18" width="648" height="977" frameX="0" frameY="-8" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0005" x="1445" y="18" width="648" height="977" frameX="0" frameY="-8" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0006" x="2154" y="18" width="647" height="968" frameX="-2" frameY="-17" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0007" x="2154" y="18" width="647" height="968" frameX="-2" frameY="-17" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0008" x="2862" y="18" width="646" height="971" frameX="-2" frameY="-14" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0009" x="2862" y="18" width="646" height="971" frameX="-2" frameY="-14" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0010" x="2862" y="18" width="646" height="971" frameX="-2" frameY="-14" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0011" x="2862" y="18" width="646" height="971" frameX="-2" frameY="-14" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0012" x="3569" y="18" width="648" height="971" frameX="0" frameY="-14" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0013" x="3569" y="18" width="648" height="971" frameX="0" frameY="-14" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0014" x="4278" y="18" width="645" height="985" frameX="-1" frameY="0" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0015" x="4278" y="18" width="645" height="985" frameX="-1" frameY="0" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0016" x="4984" y="18" width="656" height="980" frameX="-2" frameY="-5" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0017" x="4984" y="18" width="656" height="980" frameX="-2" frameY="-5" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0018" x="5701" y="18" width="656" height="975" frameX="-2" frameY="-10" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0019" x="5701" y="18" width="656" height="975" frameX="-2" frameY="-10" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0020" x="6418" y="18" width="656" height="975" frameX="-2" frameY="-10" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0021" x="6418" y="18" width="656" height="975" frameX="-2" frameY="-10" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0022" x="7135" y="18" width="657" height="975" frameX="-2" frameY="-10" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="idle0023" x="7135" y="18" width="657" height="975" frameX="-2" frameY="-10" frameWidth="659" frameHeight="985"/>
+	<SubTexture name="merchant down0000" x="18" y="1064" width="626" height="900" frameX="0" frameY="-7" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant down0001" x="18" y="1064" width="626" height="900" frameX="0" frameY="-7" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant down0002" x="705" y="1064" width="617" height="907" frameX="-4" frameY="0" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant down0003" x="705" y="1064" width="617" height="907" frameX="-4" frameY="0" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant down0004" x="705" y="1064" width="617" height="907" frameX="-4" frameY="0" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant down0005" x="705" y="1064" width="617" height="907" frameX="-4" frameY="0" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant down0006" x="705" y="1064" width="617" height="907" frameX="-4" frameY="0" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant down0007" x="705" y="1064" width="617" height="907" frameX="-4" frameY="0" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant down0008" x="705" y="1064" width="617" height="907" frameX="-4" frameY="0" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant down0009" x="705" y="1064" width="617" height="907" frameX="-4" frameY="0" frameWidth="626" frameHeight="907"/>
+	<SubTexture name="merchant left0000" x="1383" y="1064" width="564" height="995"/>
+	<SubTexture name="merchant left0001" x="1383" y="1064" width="564" height="995"/>
+	<SubTexture name="merchant left0002" x="2008" y="1064" width="563" height="991" frameX="0" frameY="-4" frameWidth="564" frameHeight="995"/>
+	<SubTexture name="merchant left0003" x="2008" y="1064" width="563" height="991" frameX="0" frameY="-4" frameWidth="564" frameHeight="995"/>
+	<SubTexture name="merchant left0004" x="2008" y="1064" width="563" height="991" frameX="0" frameY="-4" frameWidth="564" frameHeight="995"/>
+	<SubTexture name="merchant left0005" x="2008" y="1064" width="563" height="991" frameX="0" frameY="-4" frameWidth="564" frameHeight="995"/>
+	<SubTexture name="merchant left0006" x="2008" y="1064" width="563" height="991" frameX="0" frameY="-4" frameWidth="564" frameHeight="995"/>
+	<SubTexture name="merchant left0007" x="2008" y="1064" width="563" height="991" frameX="0" frameY="-4" frameWidth="564" frameHeight="995"/>
+	<SubTexture name="merchant left0008" x="2008" y="1064" width="563" height="991" frameX="0" frameY="-4" frameWidth="564" frameHeight="995"/>
+	<SubTexture name="merchant left0009" x="2008" y="1064" width="563" height="991" frameX="0" frameY="-4" frameWidth="564" frameHeight="995"/>
+	<SubTexture name="merchant right0000" x="2632" y="1064" width="704" height="951" frameX="0" frameY="0" frameWidth="706" frameHeight="951"/>
+	<SubTexture name="merchant right0001" x="2632" y="1064" width="704" height="951" frameX="0" frameY="0" frameWidth="706" frameHeight="951"/>
+	<SubTexture name="merchant right0002" x="3397" y="1064" width="705" height="944" frameX="-1" frameY="-7" frameWidth="706" frameHeight="951"/>
+	<SubTexture name="merchant right0003" x="3397" y="1064" width="705" height="944" frameX="-1" frameY="-7" frameWidth="706" frameHeight="951"/>
+	<SubTexture name="merchant right0004" x="3397" y="1064" width="705" height="944" frameX="-1" frameY="-7" frameWidth="706" frameHeight="951"/>
+	<SubTexture name="merchant right0005" x="3397" y="1064" width="705" height="944" frameX="-1" frameY="-7" frameWidth="706" frameHeight="951"/>
+	<SubTexture name="merchant right0006" x="3397" y="1064" width="705" height="944" frameX="-1" frameY="-7" frameWidth="706" frameHeight="951"/>
+	<SubTexture name="merchant right0007" x="3397" y="1064" width="705" height="944" frameX="-1" frameY="-7" frameWidth="706" frameHeight="951"/>
+	<SubTexture name="merchant right0008" x="3397" y="1064" width="705" height="944" frameX="-1" frameY="-7" frameWidth="706" frameHeight="951"/>
+	<SubTexture name="merchant up0000" x="4163" y="1064" width="545" height="1004" frameX="0" frameY="0" frameWidth="547" frameHeight="1004"/>
+	<SubTexture name="merchant up0001" x="4163" y="1064" width="545" height="1004" frameX="0" frameY="0" frameWidth="547" frameHeight="1004"/>
+	<SubTexture name="merchant up0002" x="4769" y="1064" width="543" height="991" frameX="-4" frameY="-13" frameWidth="547" frameHeight="1004"/>
+	<SubTexture name="merchant up0003" x="4769" y="1064" width="543" height="991" frameX="-4" frameY="-13" frameWidth="547" frameHeight="1004"/>
+	<SubTexture name="merchant up0004" x="4769" y="1064" width="543" height="991" frameX="-4" frameY="-13" frameWidth="547" frameHeight="1004"/>
+	<SubTexture name="merchant up0005" x="4769" y="1064" width="543" height="991" frameX="-4" frameY="-13" frameWidth="547" frameHeight="1004"/>
+	<SubTexture name="merchant up0006" x="4769" y="1064" width="543" height="991" frameX="-4" frameY="-13" frameWidth="547" frameHeight="1004"/>
+	<SubTexture name="merchant up0007" x="4769" y="1064" width="543" height="991" frameX="-4" frameY="-13" frameWidth="547" frameHeight="1004"/>
+	<SubTexture name="merchant up0008" x="4769" y="1064" width="543" height="991" frameX="-4" frameY="-13" frameWidth="547" frameHeight="1004"/>
+</TextureAtlas>

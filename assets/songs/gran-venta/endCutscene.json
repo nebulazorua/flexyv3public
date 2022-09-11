@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_A9",
+      "text": "Whew, that was good. I haven't been able to cut loose like that in ages!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_A10",
+      "text": "Here, I think you deserve this",
+      "speed": 0.05,
+      "box": "normal"
+    }
+  ],
+  "music": "La_Charla"
+}

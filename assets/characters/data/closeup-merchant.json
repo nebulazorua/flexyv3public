@@ -1,0 +1,71 @@
+{
+	"charOffset": [
+		0,
+		0
+	],
+	"singDur": 6.1,
+	"camOffset": [
+		425,
+		-125
+	],
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-1,
+				6
+			],
+			"fps": 24,
+			"prefix": "up",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				5,
+				-2
+			],
+			"fps": 24,
+			"prefix": "left",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-1,
+				10
+			],
+			"fps": 24,
+			"prefix": "right",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				8,
+				26
+			],
+			"fps": 24,
+			"prefix": "down",
+			"name": "singDOWN",
+			"looped": false
+		}
+	],
+	"spritesheet": "granventa/merchant_closeup",
+	"scale": 1.1,
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "closeup-merchant",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFFFFE1B3"
+}

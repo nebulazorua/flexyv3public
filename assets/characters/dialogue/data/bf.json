@@ -1,0 +1,43 @@
+{
+  "spritesheet": "BF PORTS",
+  "pos": "right",
+  "scale": 0.4,
+  "offset": [
+    -200,
+    -350
+  ],
+  "expressions": [
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "idle",
+      "prefix": "smile"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "hype",
+      "prefix": "hype"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "peace",
+      "prefix": "peace"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "smirk",
+      "prefix": "smirk"
+    }
+  ]
+}

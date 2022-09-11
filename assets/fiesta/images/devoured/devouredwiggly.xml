@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="devouredwiggly.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wiggle lines0000" x="20" y="20" width="1409" height="883"/>
+	<SubTexture name="wiggle lines0001" x="20" y="20" width="1409" height="883"/>
+	<SubTexture name="wiggle lines0002" x="1449" y="20" width="1408" height="881" frameX="-1" frameY="-1" frameWidth="1409" frameHeight="883"/>
+	<SubTexture name="wiggle lines0003" x="1449" y="20" width="1408" height="881" frameX="-1" frameY="-1" frameWidth="1409" frameHeight="883"/>
+	<SubTexture name="wiggle lines0004" x="20" y="923" width="1331" height="874" frameX="-1" frameY="-6" frameWidth="1409" frameHeight="883"/>
+	<SubTexture name="wiggle lines0005" x="20" y="923" width="1331" height="874" frameX="-1" frameY="-6" frameWidth="1409" frameHeight="883"/>
+	<SubTexture name="wiggle lines0006" x="20" y="20" width="1409" height="883"/>
+	<SubTexture name="wiggle lines0007" x="20" y="20" width="1409" height="883"/>
+</TextureAtlas>

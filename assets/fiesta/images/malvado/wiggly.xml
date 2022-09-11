@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wiggly.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wiggly0000" x="20" y="20" width="1448" height="852" frameX="-14" frameY="0" frameWidth="1462" frameHeight="858"/>
+	<SubTexture name="wiggly0001" x="20" y="20" width="1448" height="852" frameX="-14" frameY="0" frameWidth="1462" frameHeight="858"/>
+	<SubTexture name="wiggly0002" x="1488" y="20" width="1447" height="851" frameX="-15" frameY="0" frameWidth="1462" frameHeight="858"/>
+	<SubTexture name="wiggly0003" x="1488" y="20" width="1447" height="851" frameX="-15" frameY="0" frameWidth="1462" frameHeight="858"/>
+	<SubTexture name="wiggly0004" x="20" y="892" width="1453" height="854" frameX="0" frameY="-4" frameWidth="1462" frameHeight="858"/>
+	<SubTexture name="wiggly0005" x="20" y="892" width="1453" height="854" frameX="0" frameY="-4" frameWidth="1462" frameHeight="858"/>
+	<SubTexture name="wiggly0006" x="1493" y="892" width="1453" height="854" frameX="0" frameY="-4" frameWidth="1462" frameHeight="858"/>
+	<SubTexture name="wiggly0007" x="1493" y="892" width="1453" height="854" frameX="0" frameY="-4" frameWidth="1462" frameHeight="858"/>
+</TextureAtlas>

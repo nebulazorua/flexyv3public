@@ -1,0 +1,19 @@
+{
+  "spritesheet": "vera_dialogue",
+  "pos": "left",
+  "scale": 0.4,
+  "offset": [
+    -500,
+    -420
+  ],
+  "expressions": [
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "idle",
+      "prefix": "vera_dialogue"
+    }
+  ]
+}

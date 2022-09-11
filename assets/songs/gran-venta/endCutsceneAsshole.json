@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "character": "merchant",
+      "image": "BLACK",
+      "text": "Get the fuck out of here before I change my mind about letting you live, you disrespectful prick.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "image": "BLACK",
+      "text": "Whatever, this party sucked anyway!",
+      "speed": 0.05,
+      "box": "normal"
+    }
+  ],
+  "music": "GranVentaSU"
+}

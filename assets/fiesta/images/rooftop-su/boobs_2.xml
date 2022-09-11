@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boobs_2.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowd instance 10000" x="2" y="2" width="492" height="339" frameX="-4" frameY="0" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10001" x="2" y="2" width="492" height="339" frameX="-4" frameY="0" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10002" x="496" y="2" width="499" height="334" frameX="0" frameY="-5" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10003" x="496" y="2" width="499" height="334" frameX="0" frameY="-5" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10004" x="2" y="343" width="495" height="336" frameX="-2" frameY="-3" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10005" x="2" y="343" width="495" height="336" frameX="-2" frameY="-3" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10006" x="499" y="343" width="495" height="336" frameX="-2" frameY="-3" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10007" x="499" y="343" width="495" height="336" frameX="-2" frameY="-3" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10008" x="2" y="681" width="493" height="338" frameX="-3" frameY="-1" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10009" x="2" y="681" width="493" height="338" frameX="-3" frameY="-1" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10010" x="2" y="2" width="492" height="339" frameX="-4" frameY="0" frameWidth="499" frameHeight="339"/>
+	<SubTexture name="crowd instance 10011" x="2" y="2" width="492" height="339" frameX="-4" frameY="0" frameWidth="499" frameHeight="339"/>
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+  "dialogue": [
+    {
+      "character": "flexy",
+      "expression": "sweating",
+      "text": "Wow, you sure that was a *huff* warm up?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "expression": "sheesh",
+      "text": "Yeah? Don’t tell me you’re already outta breath, god damn. That wasn’t even the third song.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "expression": "showingteeth",
+      "text": "Alright, well, want to… 'step it up'?",
+      "speed": 0.02,
+      "box": "normal",
+      "autoFinish": 3
+    },
+    {
+      "character": "stepbro",
+      "expression": "idle",
+      "text": "Shut the hell up and put on the next song before I “step” on your ugly ass face, bitch.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "expression": "shocked",
+      "text": " ",
+      "speed": 0.05,
+      "box": "normal",
+      "actions": [
+        {
+          "name": "cutMusic",
+          "args": [
+          ]
+        }
+      ]
+    }
+
+  ],
+  "music": "La_Charla"
+}

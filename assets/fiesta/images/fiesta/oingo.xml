@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oingo.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="oingo boingo cat instance 10000" x="2" y="2" width="271" height="505" frameX="0" frameY="-13" frameWidth="271" frameHeight="518"/>
+	<SubTexture name="oingo boingo cat instance 10001" x="2" y="2" width="271" height="505" frameX="0" frameY="-13" frameWidth="271" frameHeight="518"/>
+	<SubTexture name="oingo boingo cat instance 10002" x="275" y="2" width="262" height="515" frameX="-4" frameY="-3" frameWidth="271" frameHeight="518"/>
+	<SubTexture name="oingo boingo cat instance 10003" x="275" y="2" width="262" height="515" frameX="-4" frameY="-3" frameWidth="271" frameHeight="518"/>
+	<SubTexture name="oingo boingo cat instance 10004" x="539" y="2" width="258" height="518" frameX="-6" frameY="0" frameWidth="271" frameHeight="518"/>
+</TextureAtlas>

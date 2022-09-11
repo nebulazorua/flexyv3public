@@ -1,0 +1,34 @@
+{
+  "actsLike": "default",
+  "scale": 0.7,
+  "antialiasing": true,
+  "arguments": {
+      "notes":{
+        "sheet": "MINES",
+        "up":{
+          "xOffset": -30,
+          "yOffset": 23,
+          "prefix": "green"
+        },
+
+        "down":{
+          "xOffset": -25,
+          "yOffset": 23,
+          "prefix": "blue"
+        },
+
+        "left":{
+          "xOffset": -25,
+          "yOffset": 23,
+          "prefix": "purple"
+        },
+
+        "right":{
+          "xOffset": -30,
+          "yOffset": 23,
+          "prefix": "red"
+        }
+
+      }
+  }
+}

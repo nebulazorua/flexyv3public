@@ -1,0 +1,67 @@
+{
+  "spritesheet": "dmpflexy_dialogue",
+  "pos": "left",
+  "scale": 0.4,
+  "offset": [
+    -500,
+    -380
+  ],
+  "expressions": [
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "happy",
+      "prefix": "dmphappy"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "sidelook",
+      "prefix": "sidelook"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "pissed",
+      "prefix": "dmppissed"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "censored",
+      "prefix": "censored"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "confident",
+      "prefix": "confident"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "tearingup",
+      "prefix": "tearingup"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "corrupt",
+      "prefix": "dmpcorrupted"
+    }
+  ]
+}

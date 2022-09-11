@@ -1,0 +1,70 @@
+{
+	"charOffset": [
+		200,
+		50
+	],
+	"spritesheet": "flecco_corr",
+	"singDur": 6.1,
+	"camOffset": [
+		-250,
+		-350
+	],
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				39,
+				38
+			],
+			"fps": 24,
+			"prefix": "up",
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				80,
+				-20
+			],
+			"fps": 24,
+			"prefix": "left",
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-35,
+				-20
+			],
+			"fps": 24,
+			"prefix": "right",
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				4,
+				-40
+			],
+			"fps": 24,
+			"prefix": "down",
+			"looped": false,
+			"name": "singDOWN"
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "flexvado",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFF141428"
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="merchant_dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="merchantnormal0000" x="0" y="0" width="1000" height="1000" frameX="-61" frameY="0" frameWidth="1077" frameHeight="1003"/>
+	<SubTexture name="ohno0000" x="1000" y="0" width="1000" height="1000" frameX="-75" frameY="0" frameWidth="1077" frameHeight="1003"/>
+	<SubTexture name="fireangry0000" x="2000" y="0" width="1000" height="1000" frameX="-10" frameY="0" frameWidth="1077" frameHeight="1003"/>
+	<SubTexture name="halfcorrupted0000" x="3000" y="0" width="1000" height="1000" frameX="-75" frameY="-3" frameWidth="1077" frameHeight="1003"/>
+	<SubTexture name="fullcorrupted0000" x="0" y="1000" width="1000" height="1000" frameX="-77" frameY="0" frameWidth="1077" frameHeight="1003"/>
+	<SubTexture name="ayowtf0000" x="1000" y="1000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1077" frameHeight="1003"/>
+</TextureAtlas>

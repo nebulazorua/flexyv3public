@@ -1,0 +1,71 @@
+{
+	"charOffset": [
+		0,
+		325
+	],
+	"camOffset": [
+		150,
+		-400
+	],
+	"scale": 0.8,
+	"singDur": 6.1,
+	"spritesheet": "devoured_intro",
+	"anims": [
+		{
+			"offsets": [
+				89,
+				612
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"looped": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				76,
+				647
+			],
+			"fps": 24,
+			"prefix": "up",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				168,
+				625
+			],
+			"fps": 24,
+			"prefix": "left",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				45,
+				559
+			],
+			"fps": 24,
+			"prefix": "right",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				65,
+				526
+			],
+			"fps": 24,
+			"prefix": "down",
+			"name": "singDOWN",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "closeup fleky",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFFFFFFFF"
+}

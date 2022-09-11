@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flexy.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cheeky0000" x="2" y="2" width="249" height="275"/>
+	<SubTexture name="determined0000" x="253" y="2" width="249" height="274"/>
+	<SubTexture name="happy0000" x="504" y="2" width="300" height="278"/>
+	<SubTexture name="shock0000" x="2" y="282" width="301" height="278"/>
+</TextureAtlas>

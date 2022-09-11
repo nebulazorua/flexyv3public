@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SUGF_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stepped up gf0000" x="18" y="18" width="703" height="687" frameX="0" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0001" x="18" y="18" width="703" height="687" frameX="0" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0002" x="782" y="18" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0003" x="1542" y="18" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0004" x="2302" y="18" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0005" x="3062" y="18" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0006" x="3062" y="18" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0007" x="18" y="766" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0008" x="778" y="766" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0009" x="1538" y="766" width="703" height="686" frameX="0" frameY="-2" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0010" x="2302" y="766" width="703" height="686" frameX="0" frameY="-2" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0011" x="3066" y="766" width="699" height="686" frameX="-2" frameY="-2" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0012" x="18" y="1514" width="699" height="688" frameX="-2" frameY="0" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0013" x="778" y="1514" width="699" height="688" frameX="-2" frameY="0" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0014" x="1538" y="1514" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0015" x="3062" y="18" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0016" x="3062" y="18" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0017" x="3062" y="18" width="699" height="687" frameX="-2" frameY="-1" frameWidth="703" frameHeight="688"/>
+	<SubTexture name="stepped up gf0018" x="2298" y="1514" width="703" height="687" frameX="0" frameY="-1" frameWidth="703" frameHeight="688"/>
+</TextureAtlas>

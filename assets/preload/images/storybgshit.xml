@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storybgshit.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="anniversary10000" x="1442" y="471" width="716" height="420"/>
+	<SubTexture name="anniversary10001" x="1442" y="471" width="716" height="420"/>
+	<SubTexture name="anniversary10002" x="1442" y="471" width="716" height="420"/>
+	<SubTexture name="anniversary10003" x="1442" y="471" width="716" height="420"/>
+	<SubTexture name="anniversary10004" x="1442" y="893" width="716" height="420"/>
+	<SubTexture name="anniversary10005" x="1442" y="893" width="716" height="420"/>
+	<SubTexture name="anniversary10006" x="1442" y="893" width="716" height="420"/>
+	<SubTexture name="anniversary10007" x="1442" y="893" width="716" height="420"/>
+	<SubTexture name="anniversary10008" x="2160" y="894" width="716" height="420"/>
+	<SubTexture name="anniversary10009" x="2160" y="894" width="716" height="420"/>
+	<SubTexture name="anniversary10010" x="2160" y="894" width="716" height="420"/>
+	<SubTexture name="anniversary10011" x="2160" y="894" width="716" height="420"/>
+	<SubTexture name="anniversary10012" x="2878" y="894" width="716" height="419" frameX="0" frameY="-1" frameWidth="716" frameHeight="420"/>
+	<SubTexture name="anniversary10013" x="2878" y="894" width="716" height="419" frameX="0" frameY="-1" frameWidth="716" frameHeight="420"/>
+	<SubTexture name="anniversary10014" x="2878" y="894" width="716" height="419" frameX="0" frameY="-1" frameWidth="716" frameHeight="420"/>
+	<SubTexture name="anniversary10015" x="2878" y="894" width="716" height="419" frameX="0" frameY="-1" frameWidth="716" frameHeight="420"/>
+	<SubTexture name="corrupted0000" x="2159" y="2" width="709" height="467" frameX="0" frameY="0" frameWidth="717" frameHeight="467"/>
+	<SubTexture name="corrupted0001" x="2159" y="2" width="709" height="467" frameX="0" frameY="0" frameWidth="717" frameHeight="467"/>
+	<SubTexture name="corrupted0002" x="2159" y="2" width="709" height="467" frameX="0" frameY="0" frameWidth="717" frameHeight="467"/>
+	<SubTexture name="corrupted0003" x="2159" y="2" width="709" height="467" frameX="0" frameY="0" frameWidth="717" frameHeight="467"/>
+	<SubTexture name="corrupted0004" x="2" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0005" x="2" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0006" x="2" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0007" x="2" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0008" x="721" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0009" x="721" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0010" x="721" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0011" x="721" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0012" x="1440" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0013" x="1440" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0014" x="1440" y="2" width="717" height="467"/>
+	<SubTexture name="corrupted0015" x="1440" y="2" width="717" height="467"/>
+	<SubTexture name="mainstory0000" x="2870" y="2" width="718" height="444"/>
+	<SubTexture name="mainstory0001" x="2870" y="2" width="718" height="444"/>
+	<SubTexture name="mainstory0002" x="2870" y="2" width="718" height="444"/>
+	<SubTexture name="mainstory0003" x="2870" y="2" width="718" height="444"/>
+	<SubTexture name="mainstory0004" x="2870" y="448" width="718" height="444"/>
+	<SubTexture name="mainstory0005" x="2870" y="448" width="718" height="444"/>
+	<SubTexture name="mainstory0006" x="2870" y="448" width="718" height="444"/>
+	<SubTexture name="mainstory0007" x="2870" y="448" width="718" height="444"/>
+	<SubTexture name="mainstory0008" x="2" y="471" width="718" height="444"/>
+	<SubTexture name="mainstory0009" x="2" y="471" width="718" height="444"/>
+	<SubTexture name="mainstory0010" x="2" y="471" width="718" height="444"/>
+	<SubTexture name="mainstory0011" x="2" y="471" width="718" height="444"/>
+	<SubTexture name="mainstory0012" x="722" y="471" width="718" height="444"/>
+	<SubTexture name="mainstory0013" x="722" y="471" width="718" height="444"/>
+	<SubTexture name="mainstory0014" x="722" y="471" width="718" height="444"/>
+	<SubTexture name="mainstory0015" x="722" y="471" width="718" height="444"/>
+	<SubTexture name="xmas0000" x="2" y="917" width="709" height="386"/>
+	<SubTexture name="xmas0001" x="2" y="917" width="709" height="386"/>
+	<SubTexture name="xmas0002" x="2" y="917" width="709" height="386"/>
+	<SubTexture name="xmas0003" x="2" y="917" width="709" height="386"/>
+	<SubTexture name="xmas0004" x="713" y="917" width="709" height="386"/>
+	<SubTexture name="xmas0005" x="713" y="917" width="709" height="386"/>
+	<SubTexture name="xmas0006" x="713" y="917" width="709" height="386"/>
+	<SubTexture name="xmas0007" x="713" y="917" width="709" height="386"/>
+	<SubTexture name="xmas0008" x="2" y="1305" width="709" height="386"/>
+	<SubTexture name="xmas0009" x="2" y="1305" width="709" height="386"/>
+	<SubTexture name="xmas0010" x="2" y="1305" width="709" height="386"/>
+	<SubTexture name="xmas0011" x="2" y="1305" width="709" height="386"/>
+	<SubTexture name="xmas0012" x="713" y="1305" width="709" height="386"/>
+	<SubTexture name="xmas0013" x="713" y="1305" width="709" height="386"/>
+	<SubTexture name="xmas0014" x="713" y="1305" width="709" height="386"/>
+	<SubTexture name="xmas0015" x="713" y="1305" width="709" height="386"/>
+</TextureAtlas>

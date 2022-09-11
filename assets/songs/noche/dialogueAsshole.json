@@ -1,0 +1,48 @@
+{
+  "dialogue": [
+    {
+      "character": "flexy",
+      "expression": "showingteeth",
+      "text": "Hey there, stranger! You look awfully familiar-",
+      "speed": 0.05,
+      "autoFinish": 0.1,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "expression": "idle",
+      "text": "-and you look straight up awful, like the hell even are you?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "expression": "sweating",
+      "text": "... was that necessary?",
+      "speed": 0.075,
+      "box": "normal"
+    },
+      {
+        "character": "flexy",
+        "expression": "huh",
+        "text": "Anyways, I assume you’re the performer for tonight..?",
+        "speed": 0.05,
+        "box": "normal"
+      },
+    {
+      "character": "stepbro",
+      "expression": "idle",
+      "text": "Yeah, my name’s Stepbro, don’t forget it. Now put on a beat, I need to warm up so this show doesn’t TOTALLY suck.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "expression": "huh",
+      "text": "...whatever you say.",
+      "speed": 0.05,
+      "box": "normal"
+    }
+  ],
+  "music": "La_Charla"
+}

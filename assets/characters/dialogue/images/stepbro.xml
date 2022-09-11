@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stepbro.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="awooga0000" x="9" y="9" width="931" height="943"/>
+	<SubTexture name="blush0000" x="949" y="9" width="918" height="885"/>
+	<SubTexture name="cocky0000" x="1876" y="9" width="918" height="885"/>
+	<SubTexture name="cockybitch0000" x="2803" y="9" width="918" height="885"/>
+	<SubTexture name="concern0000" x="3730" y="9" width="918" height="885"/>
+	<SubTexture name="deargod0000" x="4657" y="9" width="918" height="885"/>
+	<SubTexture name="fearful0000" x="5584" y="9" width="918" height="885"/>
+	<SubTexture name="idle0000" x="6511" y="9" width="918" height="885"/>
+	<SubTexture name="irritated0000" x="9" y="961" width="918" height="885"/>
+	<SubTexture name="miss0000" x="936" y="961" width="918" height="885"/>
+	<SubTexture name="pa0000" x="1863" y="961" width="918" height="885"/>
+	<SubTexture name="pog0000" x="2790" y="961" width="918" height="885"/>
+	<SubTexture name="pussy0000" x="3717" y="961" width="918" height="885"/>
+	<SubTexture name="sheesh0000" x="4644" y="961" width="918" height="885"/>
+	<SubTexture name="smol0000" x="5571" y="961" width="918" height="885"/>
+	<SubTexture name="smug0000" x="6498" y="961" width="918" height="885"/>
+	<SubTexture name="terrified0000" x="9" y="1855" width="918" height="885"/>
+	<SubTexture name="what0000" x="936" y="1855" width="918" height="885"/>
+</TextureAtlas>

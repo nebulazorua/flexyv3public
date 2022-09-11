@@ -1,0 +1,27 @@
+{
+  "dialogue": [
+    {
+      "character": "stepbro",
+      "expression": "cocky",
+      "text": "Wow, you almost made me try there!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "dmp",
+      "expression": "pissed",
+      "text": "...thanks. It’s time to perform, so let’s just get up to the roof and get it over with.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "expression": "idle",
+      "text": "Finally, damn.",
+      "speed": 0.05,
+      "box": "normal"
+    }
+
+  ],
+  "music": "La_Charla"
+}

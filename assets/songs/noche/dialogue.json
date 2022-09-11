@@ -1,0 +1,26 @@
+{
+  "dialogue": [
+    {
+      "character": "flexy",
+      "expression": "tongueout",
+      "text": "Hey Boyfriend! Glad to see you could make it!",
+      "speed": 0.05,
+      "box": "loud"
+    },
+    {
+      "character": "bf",
+      "expression": "idle",
+      "text": "Boo daa bap!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "expression": "happy",
+      "text": "A practice round? Alright, let’s warm up a bit. We got a big show to put on tonight!",
+      "speed": 0.05,
+      "box": "normal"
+    }
+  ],
+  "music": "La_Charla"
+}

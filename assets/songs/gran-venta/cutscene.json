@@ -1,0 +1,173 @@
+{
+  "dialogue": [
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_A1",
+      "text": "Wow, this is the best reception the Fiesta's had in ages!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_A1",
+      "text": "Awesome work Boyfriend, you're really somethin' special!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "bf",
+      "image": "CUTSCENE_A1",
+      "text": "Beep...",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_A2",
+      "text": "",
+      "speed": 0.05,
+      "autoFinish": 1,
+      "box": "invisible"
+    },
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_A3",
+      "text": "",
+      "speed": 0.05,
+      "waitTime": 0.25,
+      "box": "invisible",
+      "actions": [
+        {
+          "name": "flash",
+          "args": [
+            "WHITE",
+            0.2
+          ]
+        },
+        {
+          "name": "sound",
+          "args": [
+            "thunder_1",
+            0.75
+          ]
+        }
+      ]
+    },
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_A4",
+      "text": "Thanks for coming, you two! You're always welcome back whenever you want to stop by!",
+      "speed": 0.05,
+      "box": "loud"
+    },
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_A4",
+      "text": "Hope to see you next year!",
+      "speed": 0.05,
+      "box": "loud"
+    },
+    {
+      "character": "bf",
+      "image": "CUTSCENE_A5",
+      "text": "Wow, that was a blast! Thanks for bringin' me along, babe!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "gf",
+      "image": "CUTSCENE_A5",
+      "text": "Always, my love. You were the life of the party tonight!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "gf",
+      "image": "CUTSCENE_A5",
+      "text": "You two sure can sing, of course I expected no less!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "bf",
+      "image": "CUTSCENE_A5",
+      "text": "Heh, thanks babe. I'm beat though, lets head home.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_A6",
+      "text": "Hey, that was a great show you put on for us at the party earlier tonight.",
+      "speed": 0.05,
+      "box": "normal",
+      "actions": [
+        {
+          "name": "changeMusic",
+          "args": [
+            "GranVenta"
+          ]
+        }
+      ]
+    },
+    {
+      "character": "bf",
+      "image": "CUTSCENE_A6",
+      "text": "Beep..?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_A6",
+      "text": "I was hopin' you might be interested in buying something from my lil' alleyway shop; haven't sold anything all day.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "bf",
+      "image": "CUTSCENE_A6",
+      "text": "Beepee, bo bap!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "bf",
+      "image": "CUTSCENE_A7",
+      "text": "",
+      "speed": 0.05,
+      "box": "invisible",
+      "actions": [
+        {
+          "name": "sound",
+          "args": [
+            "missnote1",
+            0.75
+          ]
+        }
+      ]
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_A8",
+      "text": "Oh... you don't have any money.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_A8",
+      "text": "Tell ya what. I'll give you this for FREE if you beat me in one of your little rap battles.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_A8",
+      "text": "I assure you it won't be easy, and since you want it free, I won't be playin' fair. Try to keep up!",
+      "speed": 0.05,
+      "box": "normal"
+    }
+  ],
+  "music": "La_Charla"
+}

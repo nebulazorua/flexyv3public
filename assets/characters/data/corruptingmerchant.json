@@ -1,0 +1,71 @@
+{
+	"charOffset": [
+		0,
+		-75
+	],
+	"scale": 0.8,
+	"spritesheet": "Corrupting_Merchant",
+	"singDur": 4,
+	"camOffset": [
+		150,
+		-20
+	],
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-11,
+				16
+			],
+			"fps": 24,
+			"prefix": "merchant up",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				1,
+				7
+			],
+			"fps": 24,
+			"prefix": "merchant left",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				22,
+				-27
+			],
+			"fps": 24,
+			"prefix": "merchant right",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				20,
+				-51
+			],
+			"fps": 24,
+			"prefix": "merchant down",
+			"name": "singDOWN",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"iconName": "corruptedmerchant",
+	"antialiasing": true,
+	"beatDancer": false,
+	"healthColor": "0xFF0F0F2D",
+	"format": "andromeda"
+}

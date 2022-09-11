@@ -1,0 +1,71 @@
+{
+	"charOffset": [
+		0,
+		-50
+	],
+	"singDur": 4,
+	"spritesheet": "granventa/purplewhore",
+	"anims": [
+		{
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"prefix": "gf only",
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"name": "danceLeft",
+			"looped": false
+		},
+		{
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"prefix": "gf only",
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"name": "danceRight",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "gf",
+	"beatDancer": true,
+	"format": "andromeda",
+	"healthColor": "0xFFA5004D"
+}

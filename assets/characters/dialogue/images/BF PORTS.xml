@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF PORTS.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hype0000" x="50" y="50" width="871" height="990"/>
+	<SubTexture name="peace0000" x="946" y="50" width="871" height="990"/>
+	<SubTexture name="smile0000" x="1842" y="50" width="854" height="990"/>
+	<SubTexture name="smirk0000" x="2721" y="50" width="854" height="990"/>
+</TextureAtlas>

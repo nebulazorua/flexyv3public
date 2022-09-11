@@ -1,0 +1,59 @@
+{
+  "spritesheet": "merchant_dialogue",
+  "pos": "left",
+  "scale": 0.4,
+  "offset": [
+    -500,
+    -380
+  ],
+  "expressions": [
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "idle",
+      "prefix": "merchantnormal"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "ohno",
+      "prefix": "ohno"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "pissed",
+      "prefix": "fireangry"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "halfcorrupt",
+      "prefix": "halfcorrupted"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "corrupt",
+      "prefix": "fullcorrupted"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "frontfacingmerchant",
+      "prefix": "ayowtf"
+    }
+  ]
+}

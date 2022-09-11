@@ -1,0 +1,54 @@
+{
+	"charOffset": [
+		0,
+		-50
+	],
+	"singDur": 4,
+	"spritesheet": "SUGF_assets",
+	"anims": [
+		{
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"prefix": "stepped up gf",
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"name": "danceLeft",
+			"looped": false
+		},
+		{
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"prefix": "stepped up gf",
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"name": "danceRight",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "gf",
+	"beatDancer": true,
+	"healthColor": "0xFFA5004D",
+	"format": "andromeda"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flexy_dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="happy0000" x="0" y="0" width="1000" height="1000" frameX="-10" frameY="0" frameWidth="1010" frameHeight="1000"/>
+	<SubTexture name="browraised0000" x="1000" y="0" width="1000" height="1000" frameX="-10" frameY="0" frameWidth="1010" frameHeight="1000"/>
+	<SubTexture name="showingteeth0000" x="2000" y="0" width="1000" height="1000" frameX="-10" frameY="0" frameWidth="1010" frameHeight="1000"/>
+	<SubTexture name="wink0000" x="3000" y="0" width="1000" height="1000" frameX="-10" frameY="0" frameWidth="1010" frameHeight="1000"/>
+	<SubTexture name="tongueout0000" x="0" y="1000" width="1000" height="1000" frameX="-3" frameY="0" frameWidth="1010" frameHeight="1000"/>
+	<SubTexture name="sweating0000" x="1000" y="1000" width="1000" height="1000" frameX="-1" frameY="0" frameWidth="1010" frameHeight="1000"/>
+	<SubTexture name="mad0000" x="2000" y="1000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1010" frameHeight="1000"/>
+	<SubTexture name="guh0000" x="3000" y="1000" width="1000" height="1000" frameX="-2" frameY="0" frameWidth="1010" frameHeight="1000"/>
+</TextureAtlas>

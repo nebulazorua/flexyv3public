@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clownso.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clownso0000" x="18" y="18" width="286" height="331" frameX="-7" frameY="0" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0001" x="18" y="18" width="286" height="331" frameX="-7" frameY="0" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0002" x="365" y="18" width="307" height="321" frameX="0" frameY="-9" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0003" x="365" y="18" width="307" height="321" frameX="0" frameY="-9" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0004" x="18" y="410" width="295" height="326" frameX="-4" frameY="-4" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0005" x="18" y="410" width="295" height="326" frameX="-4" frameY="-4" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0006" x="374" y="410" width="289" height="329" frameX="-6" frameY="-2" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0007" x="374" y="410" width="289" height="329" frameX="-6" frameY="-2" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0008" x="18" y="18" width="286" height="331" frameX="-7" frameY="0" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0009" x="18" y="18" width="286" height="331" frameX="-7" frameY="0" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0010" x="18" y="18" width="286" height="331" frameX="-7" frameY="0" frameWidth="307" frameHeight="331"/>
+	<SubTexture name="clownso0011" x="18" y="18" width="286" height="331" frameX="-7" frameY="0" frameWidth="307" frameHeight="331"/>
+</TextureAtlas>

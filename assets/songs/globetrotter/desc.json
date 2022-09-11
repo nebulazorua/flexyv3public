@@ -1,0 +1,14 @@
+{
+    "normal": [
+        {"text": "The time is now – the concert has arrived! Sing proud for the crowd and make sure to have a great time! Heavily inspired by "},
+        {"text": "\"Dead Man’s Party\"", "link": "https://www.youtube.com/watch?v=cgLPN5XZtIE"},
+        {"text": " by Oingo Boingo"}
+    ],
+    "asshole": [
+        {"text": "You never diss someone’s partner, and now you’re paying the price. This song takes heavy inspiration from "},
+        {"text": "\"Weird Science\"", "link": "https://www.youtube.com/watch?v=Jm-upHSP9KU"},
+        {"text": " and "},
+        {"text": "\"Dead Man’s Party\"", "link": "https://www.youtube.com/watch?v=cgLPN5XZtIE"},
+        {"text": ", both of which are by Oingo Boingo."}
+    ]
+}

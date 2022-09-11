@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tiky.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tricky instance 10000" x="2" y="2" width="235" height="251" frameX="-7" frameY="0" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10001" x="2" y="2" width="235" height="251" frameX="-7" frameY="0" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10002" x="239" y="2" width="248" height="236" frameX="0" frameY="-23" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10003" x="239" y="2" width="248" height="236" frameX="0" frameY="-23" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10004" x="489" y="2" width="242" height="239" frameX="-3" frameY="-18" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10005" x="489" y="2" width="242" height="239" frameX="-3" frameY="-18" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10006" x="733" y="2" width="239" height="242" frameX="-4" frameY="-13" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10007" x="733" y="2" width="239" height="242" frameX="-4" frameY="-13" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10008" x="2" y="255" width="239" height="249" frameX="-5" frameY="-4" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10009" x="2" y="255" width="239" height="249" frameX="-5" frameY="-4" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10010" x="2" y="2" width="235" height="251" frameX="-7" frameY="0" frameWidth="248" frameHeight="259"/>
+	<SubTexture name="tricky instance 10011" x="2" y="2" width="235" height="251" frameX="-7" frameY="0" frameWidth="248" frameHeight="259"/>
+</TextureAtlas>

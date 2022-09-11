@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rid sack.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rid sack0000" x="18" y="18" width="300" height="339" frameX="-10" frameY="0" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0001" x="18" y="18" width="300" height="339" frameX="-10" frameY="0" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0002" x="379" y="18" width="316" height="331" frameX="0" frameY="-7" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0003" x="379" y="18" width="316" height="331" frameX="0" frameY="-7" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0004" x="18" y="418" width="308" height="334" frameX="-5" frameY="-4" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0005" x="18" y="418" width="308" height="334" frameX="-5" frameY="-4" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0006" x="387" y="418" width="301" height="339" frameX="-10" frameY="0" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0007" x="387" y="418" width="301" height="339" frameX="-10" frameY="0" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0008" x="18" y="18" width="300" height="339" frameX="-10" frameY="0" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0009" x="18" y="18" width="300" height="339" frameX="-10" frameY="0" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0010" x="18" y="18" width="300" height="339" frameX="-10" frameY="0" frameWidth="316" frameHeight="339"/>
+	<SubTexture name="rid sack0011" x="18" y="18" width="300" height="339" frameX="-10" frameY="0" frameWidth="316" frameHeight="339"/>
+</TextureAtlas>

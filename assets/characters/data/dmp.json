@@ -1,0 +1,70 @@
+{
+	"charOffset": [
+		25,
+		225
+	],
+	"singDur": 6.1,
+	"camOffset": [
+		150,
+		-100
+	],
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy idle",
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				60,
+				85
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy up",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				8,
+				10
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy left",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-7,
+				-15
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy right",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				15,
+				-40
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy down",
+			"name": "singDOWN",
+			"looped": false
+		}
+	],
+	"spritesheet": "dmp_flexy_assets",
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "dmp",
+	"beatDancer": false,
+	"healthColor": "0xFFFFFFFF",
+	"format": "andromeda"
+}

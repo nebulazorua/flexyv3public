@@ -1,0 +1,214 @@
+{
+	"charOffset": [
+		25,
+		225
+	],
+	"camOffset": [
+		-50,
+		-100
+	],
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy idle",
+			"name": "idle",
+			"looped": true
+		},
+		{
+			"offsets": [
+				148,
+				82
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy up",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				235,
+				3
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy left",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				117,
+				-21
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy right",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				207,
+				-36
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy down",
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"offsets": [
+				148,
+				82
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy up",
+			"indices": [
+				12
+			],
+			"name": "holdUPEnd",
+			"looped": false
+		},
+		{
+			"offsets": [
+				235,
+				3
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy left",
+			"indices": [
+				12
+			],
+			"name": "holdLEFTEnd",
+			"looped": false
+		},
+		{
+			"offsets": [
+				117,
+				-21
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy right",
+			"indices": [
+				12
+			],
+			"name": "holdRIGHTEnd",
+			"looped": false
+		},
+		{
+			"offsets": [
+				207,
+				-36
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy down",
+			"indices": [
+				12
+			],
+			"name": "holdDOWN",
+			"looped": false
+		},
+		{
+			"offsets": [
+				207,
+				-36
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy down",
+			"indices": [
+				12
+			],
+			"name": "holdDOWNEnd",
+			"looped": false
+		},
+		{
+			"offsets": [
+				148,
+				82
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy up",
+			"indices": [
+				12
+			],
+			"name": "holdUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				235,
+				3
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy left",
+			"indices": [
+				12
+			],
+			"name": "holdLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				117,
+				-21
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy right",
+			"indices": [
+				12
+			],
+			"name": "holdRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				148,
+				82
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy up",
+			"name": "holdUPStart",
+			"looped": false
+		},
+		{
+			"offsets": [
+				235,
+				3
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy left",
+			"name": "holdLEFTStart",
+			"looped": false
+		},
+		{
+			"offsets": [
+				117,
+				-21
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy right",
+			"name": "holdRIGHTStart",
+			"looped": false
+		},
+		{
+			"offsets": [
+				207,
+				-36
+			],
+			"fps": 24,
+			"prefix": "skeleton flexy down",
+			"name": "holdDOWNStart",
+			"looped": false
+		}
+	],
+	"spritesheet": "stepped_up_dmp",
+	"singDur": 6.1,
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "maddmp",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFFFFFFFF"
+}

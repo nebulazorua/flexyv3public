@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="corrupted_flexy_assets_.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skeleton flexy down0000" x="2" y="2" width="457" height="459" frameX="0" frameY="0" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0001" x="2" y="2" width="457" height="459" frameX="0" frameY="0" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0002" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0003" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0004" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0005" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0006" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0007" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0008" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0009" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0010" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0011" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0012" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0013" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0014" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0015" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0016" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0017" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0018" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0019" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0020" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0021" x="461" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0022" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy down0023" x="929" y="2" width="466" height="448" frameX="0" frameY="-10" frameWidth="466" frameHeight="459"/>
+	<SubTexture name="skeleton flexy idle0000" x="1397" y="2" width="436" height="461" frameX="0" frameY="-14" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0001" x="1397" y="2" width="436" height="461" frameX="0" frameY="-14" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0002" x="1835" y="2" width="433" height="475" frameX="-3" frameY="-13" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0003" x="1835" y="2" width="433" height="475" frameX="-3" frameY="-13" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0004" x="2270" y="2" width="431" height="477" frameX="-5" frameY="-15" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0005" x="2270" y="2" width="431" height="477" frameX="-5" frameY="-15" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0006" x="2703" y="2" width="431" height="473" frameX="-5" frameY="-9" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0007" x="2703" y="2" width="431" height="473" frameX="-5" frameY="-9" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0008" x="3136" y="2" width="430" height="472" frameX="-6" frameY="-4" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0009" x="3136" y="2" width="430" height="472" frameX="-6" frameY="-4" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0010" x="3136" y="2" width="430" height="472" frameX="-6" frameY="-4" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0011" x="3568" y="2" width="429" height="476" frameX="-7" frameY="0" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0012" x="2" y="481" width="428" height="476" frameX="-8" frameY="0" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0013" x="2" y="481" width="428" height="476" frameX="-8" frameY="0" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0014" x="2" y="481" width="428" height="476" frameX="-8" frameY="0" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy idle0015" x="432" y="481" width="430" height="475" frameX="-6" frameY="-1" frameWidth="436" frameHeight="492"/>
+	<SubTexture name="skeleton flexy left0000" x="864" y="481" width="438" height="489" frameX="-1" frameY="-9" frameWidth="451" frameHeight="498"/>
+	<SubTexture name="skeleton flexy left0001" x="864" y="481" width="438" height="489" frameX="-1" frameY="-9" frameWidth="451" frameHeight="498"/>
+	<SubTexture name="skeleton flexy left0002" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0003" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0004" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0005" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0006" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0007" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0008" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0009" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0010" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0011" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0012" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0013" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0014" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0015" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0016" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0017" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0018" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0019" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0020" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0021" x="1304" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0022" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy left0023" x="1757" y="481" width="451" height="498"/>
+	<SubTexture name="skeleton flexy right0000" x="2210" y="481" width="464" height="476" frameX="-17" frameY="0" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0001" x="2210" y="481" width="464" height="476" frameX="-17" frameY="0" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0002" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0003" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0004" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0005" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0006" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0007" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0008" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0009" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0010" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0011" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0012" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0013" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0014" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0015" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0016" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0017" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0018" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0019" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0020" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0021" x="2676" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0022" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0023" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy right0024" x="3153" y="481" width="475" height="465" frameX="0" frameY="-11" frameWidth="481" frameHeight="476"/>
+	<SubTexture name="skeleton flexy up0000" x="2" y="981" width="465" height="543" frameX="0" frameY="-6" frameWidth="481" frameHeight="550"/>
+	<SubTexture name="skeleton flexy up0001" x="2" y="981" width="465" height="543" frameX="0" frameY="-6" frameWidth="481" frameHeight="550"/>
+	<SubTexture name="skeleton flexy up0002" x="469" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0003" x="469" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0004" x="469" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0005" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0006" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0007" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0008" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0009" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0010" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0011" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0012" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0013" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0014" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0015" x="469" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0016" x="469" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0017" x="469" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0018" x="469" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0019" x="469" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0020" x="469" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0021" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0022" x="952" y="981" width="481" height="550"/>
+	<SubTexture name="skeleton flexy up0023" x="952" y="981" width="481" height="550"/>
+</TextureAtlas>

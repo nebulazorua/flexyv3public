@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lily.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lyl instance 10000" x="2" y="2" width="264" height="407" frameX="0" frameY="-13" frameWidth="264" frameHeight="420"/>
+	<SubTexture name="lyl instance 10001" x="2" y="2" width="264" height="407" frameX="0" frameY="-13" frameWidth="264" frameHeight="420"/>
+	<SubTexture name="lyl instance 10002" x="268" y="2" width="251" height="417" frameX="-7" frameY="-3" frameWidth="264" frameHeight="420"/>
+	<SubTexture name="lyl instance 10003" x="268" y="2" width="251" height="417" frameX="-7" frameY="-3" frameWidth="264" frameHeight="420"/>
+	<SubTexture name="lyl instance 10004" x="521" y="2" width="246" height="420" frameX="-9" frameY="0" frameWidth="264" frameHeight="420"/>
+</TextureAtlas>

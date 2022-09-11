@@ -1,0 +1,70 @@
+{
+  "dialogue": [
+    {
+      "character": "stepbro",
+      "expression": "irritated",
+      "text": "Hey, if we’re doing a show, mind telling that cactus bitch to get off my damn speaker?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "expression": "irritated",
+      "text": "She’s gonna ruin the sound if her fat ass is blockin’ the beats.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "dmp",
+      "expression": "pissed",
+      "text": "That’s my girlfriend, and I suggest you reword that sentence before I show you what I did BEFORE I was a performer.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "expression": "cockybitch",
+      "text": "Oh yeah? Why don’t you MAKE ME?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "vera",
+      "expression": "idle",
+      "text": "Babe, cool it, there’s people here. Don’t let him get to you-",
+      "autoFinish": 0.1,
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "expression": "cockybitch",
+      "text": "-oh, and while you’re at it, why don’t you find a new girl, cause DAMN she’s ugly.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "expression": "cockybitch",
+      "text": "Gonna have to get the speakers washed when I get back too, so let’s wrap things up-",
+      "autoFinish": 0.1,
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "dmp",
+      "expression": "censored",
+      "text": "Shut your fucking mouth. Don’t you DARE talk about her like that.",
+      "speed": 0.05,
+      "box": "loud"
+    },
+    {
+      "character": "dmp",
+      "expression": "pissed",
+      "text": "You wanted a challenge? I’ll give you plenty of a challenge. Pick up the mic, let’s go.",
+      "speed": 0.05,
+      "box": "normal"
+    }
+  ],
+  "music": "La_Charla"
+}

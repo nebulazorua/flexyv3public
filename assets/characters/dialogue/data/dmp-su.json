@@ -1,0 +1,26 @@
+{
+  "spritesheet": "dmp",
+  "pos": "left",
+  "offset": [
+    0,
+    0
+  ],
+  "expressions": [
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "annoyed",
+      "prefix": "veraannoyed"
+    },
+    {
+      "animOffset": [
+        0,
+        0
+      ],
+      "name": "pissed",
+      "prefix": "verapissed"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="corruptbf.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="corrupt bf0000" x="9" y="9" width="369" height="399" frameX="-1" frameY="-27" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0001" x="9" y="9" width="369" height="399" frameX="-1" frameY="-27" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0002" x="387" y="9" width="369" height="399" frameX="0" frameY="-27" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0003" x="387" y="9" width="369" height="399" frameX="0" frameY="-27" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0004" x="765" y="9" width="365" height="408" frameX="-3" frameY="-18" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0005" x="765" y="9" width="365" height="408" frameX="-3" frameY="-18" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0006" x="1139" y="9" width="367" height="424" frameX="-1" frameY="-2" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0007" x="1139" y="9" width="367" height="424" frameX="-1" frameY="-2" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0008" x="1515" y="9" width="366" height="426" frameX="-2" frameY="0" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0009" x="1515" y="9" width="366" height="426" frameX="-2" frameY="0" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0010" x="1515" y="9" width="366" height="426" frameX="-2" frameY="0" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0011" x="1515" y="9" width="366" height="426" frameX="-2" frameY="0" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0012" x="1515" y="9" width="366" height="426" frameX="-2" frameY="0" frameWidth="370" frameHeight="426"/>
+	<SubTexture name="corrupt bf0013" x="1515" y="9" width="366" height="426" frameX="-2" frameY="0" frameWidth="370" frameHeight="426"/>
+</TextureAtlas>

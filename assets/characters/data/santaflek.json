@@ -1,0 +1,71 @@
+{
+	"charOffset": [
+		0,
+		200
+	],
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-103,
+				60
+			],
+			"fps": 24,
+			"prefix": "up",
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				-35,
+				-19
+			],
+			"fps": 24,
+			"prefix": "left",
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				16,
+				-38
+			],
+			"fps": 24,
+			"prefix": "right",
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-78,
+				-48
+			],
+			"fps": 24,
+			"prefix": "down",
+			"looped": false,
+			"name": "singDOWN"
+		}
+	],
+	"spritesheet": "clay/santaflexy",
+	"camOffset": [
+		150,
+		0
+	],
+	"scale": 1,
+	"singDur": 6.1,
+	"flipX": false,
+	"iconName": "clayflexy",
+	"antialiasing": true,
+	"beatDancer": false,
+	"healthColor": "0xFFFFFFFF",
+	"format": "andromeda"
+}

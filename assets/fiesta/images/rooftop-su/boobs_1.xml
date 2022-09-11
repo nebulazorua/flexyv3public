@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boobs_1.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cum instance 10000" x="2" y="2" width="571" height="365" frameX="-8" frameY="0" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10001" x="2" y="2" width="571" height="365" frameX="-8" frameY="0" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10002" x="575" y="2" width="583" height="348" frameX="0" frameY="-16" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10003" x="575" y="2" width="583" height="348" frameX="0" frameY="-16" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10004" x="1160" y="2" width="580" height="353" frameX="-2" frameY="-11" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10005" x="1160" y="2" width="580" height="353" frameX="-2" frameY="-11" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10006" x="2" y="369" width="577" height="357" frameX="-4" frameY="-7" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10007" x="2" y="369" width="577" height="357" frameX="-4" frameY="-7" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10008" x="581" y="369" width="574" height="362" frameX="-6" frameY="-3" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10009" x="581" y="369" width="574" height="362" frameX="-6" frameY="-3" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10010" x="2" y="2" width="571" height="365" frameX="-8" frameY="0" frameWidth="583" frameHeight="365"/>
+	<SubTexture name="cum instance 10011" x="2" y="2" width="571" height="365" frameX="-8" frameY="0" frameWidth="583" frameHeight="365"/>
+</TextureAtlas>

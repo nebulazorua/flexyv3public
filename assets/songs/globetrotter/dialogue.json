@@ -1,0 +1,27 @@
+{
+  "dialogue": [
+    {
+      "character": "dmp",
+      "expression": "happy",
+      "text": "Hey everyone! Welcome to the show, glad you all could make it! Tonight we have a VERY special guest, Boyfriend!",
+      "speed": 0.05,
+      "box": "loud"
+    },
+    {
+      "character": "bf",
+      "expression": "smirk",
+      "text": "Bep skeedo bop!",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "dmp",
+      "expression": "confident",
+      "text": "Let’s not keep 'em waiting any more, give it everything you’ve got, it’s showtime!",
+      "speed": 0.05,
+      "box": "normal"
+    }
+
+  ],
+  "music": "La_Charla"
+}

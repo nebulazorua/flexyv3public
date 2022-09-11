@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blueFirework.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="37" y="37" width="228" height="458" frameX="-210" frameY="-641" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0001" x="359" y="37" width="338" height="539" frameX="-221" frameY="-464" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0002" x="791" y="37" width="272" height="354" frameX="-288" frameY="-450" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0003" x="1157" y="37" width="193" height="268" frameX="-365" frameY="-430" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0004" x="1157" y="37" width="193" height="268" frameX="-365" frameY="-430" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0006" x="1538" y="37" width="322" height="343" frameX="-283" frameY="-388" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0007" x="1538" y="37" width="322" height="343" frameX="-283" frameY="-388" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0008" x="1954" y="37" width="692" height="699" frameX="-102" frameY="-235" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0009" x="1954" y="37" width="692" height="699" frameX="-102" frameY="-235" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0010" x="2740" y="37" width="821" height="1012" frameX="-19" frameY="-89" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0011" x="37" y="1143" width="821" height="1053" frameX="-22" frameY="-54" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0012" x="952" y="1143" width="896" height="1130" frameX="-1" frameY="0" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0013" x="1942" y="1143" width="932" height="1202" frameX="0" frameY="-7" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0014" x="2968" y="1143" width="948" height="1181" frameX="0" frameY="-85" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0015" x="37" y="2439" width="650" height="459" frameX="-305" frameY="-467" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0016" x="781" y="2439" width="719" height="608" frameX="-271" frameY="-389" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0017" x="1594" y="2439" width="797" height="659" frameX="-248" frameY="-353" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0018" x="2485" y="2439" width="845" height="693" frameX="-229" frameY="-332" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0019" x="37" y="3226" width="724" height="691" frameX="-256" frameY="-352" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0020" x="855" y="3226" width="745" height="686" frameX="-308" frameY="-419" frameWidth="1074" frameHeight="1266"/>
+	<SubTexture name="blue0021" x="1694" y="3226" width="698" height="693" frameX="-355" frameY="-483" frameWidth="1074" frameHeight="1266"/>
+</TextureAtlas>

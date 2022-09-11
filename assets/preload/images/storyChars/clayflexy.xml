@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clayfleky.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clay flexy0000" x="9" y="9" width="499" height="471" frameX="-25" frameY="-2" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0001" x="9" y="9" width="499" height="471" frameX="-25" frameY="-2" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0002" x="517" y="9" width="500" height="472" frameX="-30" frameY="-2" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0003" x="517" y="9" width="500" height="472" frameX="-30" frameY="-2" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0004" x="1026" y="9" width="500" height="472" frameX="-26" frameY="-2" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0005" x="1026" y="9" width="500" height="472" frameX="-26" frameY="-2" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0006" x="1535" y="9" width="469" height="472" frameX="0" frameY="-7" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0007" x="1535" y="9" width="469" height="472" frameX="0" frameY="-7" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0008" x="9" y="490" width="429" height="473" frameX="-22" frameY="-1" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0009" x="9" y="490" width="429" height="473" frameX="-22" frameY="-1" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0010" x="447" y="490" width="399" height="471" frameX="-26" frameY="0" frameWidth="530" frameHeight="479"/>
+	<SubTexture name="clay flexy0011" x="447" y="490" width="399" height="471" frameX="-26" frameY="0" frameWidth="530" frameHeight="479"/>
+</TextureAtlas>

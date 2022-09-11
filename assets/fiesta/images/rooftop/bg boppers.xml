@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg boppers.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg boppers0000" x="18" y="18" width="763" height="522" frameX="-9" frameY="0" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0001" x="18" y="18" width="763" height="522" frameX="-9" frameY="0" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0002" x="842" y="18" width="782" height="498" frameX="0" frameY="-12" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0003" x="842" y="18" width="782" height="498" frameX="0" frameY="-12" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0004" x="18" y="601" width="770" height="502" frameX="-6" frameY="-10" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0005" x="18" y="601" width="770" height="502" frameX="-6" frameY="-10" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0006" x="849" y="601" width="766" height="518" frameX="-8" frameY="-2" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0007" x="849" y="601" width="766" height="518" frameX="-8" frameY="-2" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0008" x="18" y="18" width="763" height="522" frameX="-9" frameY="0" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0009" x="18" y="18" width="763" height="522" frameX="-9" frameY="0" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0010" x="18" y="18" width="763" height="522" frameX="-9" frameY="0" frameWidth="782" frameHeight="522"/>
+	<SubTexture name="bg boppers0011" x="18" y="18" width="763" height="522" frameX="-9" frameY="0" frameWidth="782" frameHeight="522"/>
+</TextureAtlas>

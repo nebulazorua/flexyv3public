@@ -1,0 +1,44 @@
+{
+	"iconName": "bf",
+	"beatDancer": false,
+	"charOffset": [
+		0,
+		300
+	],
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "BF dies",
+			"name": "firstDeath",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-62,
+				-150
+			],
+			"fps": 24,
+			"prefix": "BF Dead Loop",
+			"name": "deathLoop",
+			"looped": true
+		},
+		{
+			"offsets": [
+				-62,
+				-86
+			],
+			"fps": 24,
+			"prefix": "BF Dead confirm",
+			"name": "deathConfirm",
+			"looped": false
+		}
+	],
+	"spritesheet": "erectBoyfriend",
+	"singDur": 4,
+	"flipX": false,
+	"healthColor": "0xFFBE72FF"
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonar.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonar0000" x="9" y="9" width="379" height="710"/>
+	<SubTexture name="sonar0001" x="9" y="9" width="379" height="710"/>
+	<SubTexture name="sonar0002" x="397" y="9" width="378" height="710" frameX="-1" frameY="0" frameWidth="379" frameHeight="710"/>
+	<SubTexture name="sonar0003" x="397" y="9" width="378" height="710" frameX="-1" frameY="0" frameWidth="379" frameHeight="710"/>
+	<SubTexture name="sonar0004" x="9" y="9" width="379" height="710"/>
+	<SubTexture name="sonar0005" x="9" y="9" width="379" height="710"/>
+	<SubTexture name="sonar0006" x="397" y="9" width="378" height="710" frameX="-1" frameY="0" frameWidth="379" frameHeight="710"/>
+	<SubTexture name="sonar0007" x="397" y="9" width="378" height="710" frameX="-1" frameY="0" frameWidth="379" frameHeight="710"/>
+	<SubTexture name="sonar0008" x="9" y="9" width="379" height="710"/>
+	<SubTexture name="sonar0009" x="9" y="9" width="379" height="710"/>
+	<SubTexture name="sonar0010" x="397" y="9" width="378" height="710" frameX="-1" frameY="0" frameWidth="379" frameHeight="710"/>
+	<SubTexture name="sonar0011" x="397" y="9" width="378" height="710" frameX="-1" frameY="0" frameWidth="379" frameHeight="710"/>
+</TextureAtlas>

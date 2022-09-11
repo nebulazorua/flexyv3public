@@ -1,0 +1,142 @@
+{
+  "dialogue": [
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_B1",
+      "text": "Heh... When we harmonize I guess I don't TOTALLY hate your guts.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_B1",
+      "text": "Seems like the crowd liked it, anyway.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_B1",
+      "text": "Sorry for getting aggressive like that, by the way. Lets be friends, okay?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "image": "CUTSCENE_B1",
+      "text": "...",
+      "speed": 0.1,
+      "autoFinish": 1,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "image": "CUTSCENE_B1",
+      "text": "What, did you expect me to apologize or something?",
+      "speed": 0.05,
+      "autoFinish": 1,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "image": "CUTSCENE_B1",
+      "text": "Hell nah, you ain't worth an apology. Your girl is still ugly, you're still a pathetic idiot, and this party was a huge waste of my goddamn time.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_B2",
+      "text": "",
+      "speed": 0.05,
+      "box": "invisible"
+    },
+    {
+      "character": "stepbro",
+      "image": "CUTSCENE_B2",
+      "text": "Ugh, you're crying now? God, i'm outta here.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "flexy",
+      "image": "CUTSCENE_B3",
+      "text": "and NEVER come back again!",
+      "speed": 0.05,
+      "box": "loud"
+    },
+    {
+      "character": "stepbro",
+      "image": "CUTSCENE_B4",
+      "text": "What a giant waste of my night, coulda been doing literally ANYTHING else.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_B5",
+      "text": "So, YOU'RE the one who said all that nasty shit to my friend back there?",
+      "speed": 0.075,
+      "box": "normal",
+        "actions": [
+          {
+            "name": "changeMusic",
+            "args": [
+              "GranVentaSU"
+            ]
+          }
+        ]
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_B5",
+      "text": "Yeah, what about it-",
+      "autoFinish": 0,
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_B6",
+      "text": "Listen here, hijo de puta. Estas pero si bien pendejo.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_B6",
+      "text": "Si dices cosas malas sobre mis amigos, te matare. Chinga tu madre. Vete a la mierda.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "stepbro",
+      "image": "CUTSCENE_B6",
+      "text": "Ayo bro, that's not how this works. Ain't we s'posed to sing two songs first before you get all pissy?",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_B6",
+      "text": "Shut your damn mouth, I can make you disappear without a trace.",
+      "speed": 0.065,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_B6",
+      "text": "I'll give you one shot. Beat me here and you can leave alive.",
+      "speed": 0.05,
+      "box": "normal"
+    },
+    {
+      "character": "merchant",
+      "image": "CUTSCENE_B7",
+      "text": "You better sing like your life depends on it, cause guess what? It does.",
+      "speed": 0.05,
+      "box": "normal"
+    }
+  ],
+  "music": "La_Charla"
+}

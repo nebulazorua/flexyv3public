@@ -1,0 +1,111 @@
+{
+	"charOffset": [
+		-200,
+		-600
+	],
+	"spritesheet": "granventa/stepbro_closeup",
+	"singDur": 4,
+	"camOffset": [
+		-350,
+		225
+	],
+	"anims": [
+		{
+			"offsets": [
+				280,
+				245
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"offsets": [
+				281,
+				256
+			],
+			"fps": 24,
+			"prefix": "up",
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"offsets": [
+				327,
+				526
+			],
+			"fps": 24,
+			"prefix": "left",
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				279,
+				251
+			],
+			"fps": 24,
+			"prefix": "right",
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				330,
+				504
+			],
+			"fps": 24,
+			"prefix": "down",
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-43,
+				30
+			],
+			"fps": 24,
+			"prefix": "BF NOTE UP MISS",
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"offsets": [
+				-42,
+				-9
+			],
+			"fps": 24,
+			"prefix": "BF NOTE RIGHT MISS",
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"offsets": [
+				8,
+				13
+			],
+			"fps": 24,
+			"prefix": "BF NOTE LEFT MISS",
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"offsets": [
+				-19,
+				1
+			],
+			"fps": 24,
+			"prefix": "BF NOTE DOWN MISS",
+			"looped": false,
+			"name": "singDOWNmiss"
+		}
+	],
+	"scale": 0.5,
+	"flipX": false,
+	"iconName": "closeup-sb",
+	"antialiasing": true,
+	"beatDancer": false,
+	"healthColor": "0xFFBE72FF",
+	"format": "andromeda"
+}

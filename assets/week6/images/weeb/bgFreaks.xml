@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgFreaks.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG fangirls dissuaded instance 10000" x="2" y="2" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10001" x="2" y="2" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10002" x="455" y="2" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10003" x="455" y="2" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10004" x="455" y="2" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10005" x="455" y="2" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10006" x="2" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10007" x="2" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10008" x="2" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10009" x="2" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10010" x="2" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10011" x="2" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10012" x="2" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10013" x="2" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10014" x="455" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10015" x="455" y="100" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10016" x="2" y="198" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10017" x="2" y="198" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10018" x="455" y="198" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10019" x="455" y="198" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10020" x="2" y="296" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10021" x="2" y="296" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10022" x="455" y="296" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10023" x="455" y="296" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10024" x="455" y="296" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10025" x="455" y="296" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10026" x="455" y="296" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10027" x="455" y="296" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10028" x="455" y="296" width="451" height="96"/>
+	<SubTexture name="BG fangirls dissuaded instance 10029" x="455" y="296" width="451" height="96"/>
+	<SubTexture name="BG girls group instance 10000" x="2" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10001" x="2" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10002" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10003" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10004" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10005" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10006" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10007" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10008" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10009" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10010" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10011" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10012" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10013" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10014" x="455" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10015" x="455" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10016" x="2" y="592" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10017" x="2" y="592" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10018" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10019" x="2" y="493" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10020" x="455" y="592" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10021" x="455" y="592" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10022" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10023" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10024" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10025" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10026" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10027" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10028" x="455" y="394" width="451" height="97"/>
+	<SubTexture name="BG girls group instance 10029" x="455" y="394" width="451" height="97"/>
+</TextureAtlas>

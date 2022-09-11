@@ -1,0 +1,111 @@
+{
+	"charOffset": [
+		50,
+		-600
+	],
+	"spritesheet": "granventa/stepbro_closeup",
+	"anims": [
+		{
+			"offsets": [
+				280,
+				245
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				281,
+				256
+			],
+			"fps": 24,
+			"prefix": "up",
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				327,
+				526
+			],
+			"fps": 24,
+			"prefix": "left",
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				279,
+				251
+			],
+			"fps": 24,
+			"prefix": "right",
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				330,
+				504
+			],
+			"fps": 24,
+			"prefix": "down",
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-43,
+				30
+			],
+			"fps": 24,
+			"prefix": "BF NOTE UP MISS",
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-42,
+				-9
+			],
+			"fps": 24,
+			"prefix": "BF NOTE RIGHT MISS",
+			"name": "singRIGHTmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				8,
+				13
+			],
+			"fps": 24,
+			"prefix": "BF NOTE LEFT MISS",
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-19,
+				1
+			],
+			"fps": 24,
+			"prefix": "BF NOTE DOWN MISS",
+			"name": "singDOWNmiss",
+			"looped": false
+		}
+	],
+	"camOffset": [
+		-50,
+		200
+	],
+	"singDur": 4,
+	"scale": 0.5,
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "dickhead",
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFFBE72FF"
+}

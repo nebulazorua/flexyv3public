@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stepped up difficulty popup.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="graphic comes in0000" x="50" y="50" width="240" height="843" frameX="-363" frameY="-294" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0001" x="340" y="50" width="192" height="889" frameX="-387" frameY="-102" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0002" x="582" y="50" width="205" height="959" frameX="-380" frameY="0" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0003" x="837" y="50" width="969" height="324" frameX="0" frameY="-115" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0004" x="1856" y="50" width="813" height="379" frameX="-78" frameY="-115" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0005" x="2719" y="50" width="680" height="515" frameX="-144" frameY="-75" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0006" x="50" y="1059" width="626" height="543" frameX="-171" frameY="-81" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0007" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0008" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0009" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0010" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0011" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0012" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0013" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0014" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0015" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0016" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0017" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0018" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0019" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+	<SubTexture name="graphic comes in0020" x="726" y="1059" width="576" height="576" frameX="-195" frameY="-78" frameWidth="969" frameHeight="1137"/>
+</TextureAtlas>
